@@ -1,0 +1,125 @@
+{
+  "_note": "Articles published on tengosedtemecula.org. The app shows the title, a short summary written for the app, and opens the full article on the website. topic_tag must match a tag in Topics.kt (or it shows the raw tag).",
+  "articles": [
+    {
+      "id": "aceptacion",
+      "title": { "es": "Aceptación", "en": "Acceptance" },
+      "summary": {
+        "es": "Por qué la aceptación es una pieza clave de la recuperación: reconocer la realidad tal como es, sin pelear con ella, para poder empezar a cambiar lo que sí está en nuestras manos.",
+        "en": "Why acceptance is a key piece of recovery: recognizing reality as it is, without fighting it, so we can begin changing what is in our hands."
+      },
+      "topic_tag": "acceptance",
+      "url": "https://tengosedtemecula.org/aceptacion/"
+    },
+    {
+      "id": "primer-paso-paz",
+      "title": { "es": "Cuando pierdo mi paz y serenidad… regreso al Primer Paso", "en": "When I lose my peace and serenity… I return to Step One" },
+      "summary": {
+        "es": "Cuando el miedo, la culpa o la vergüenza toman el control, la vida se vuelve ingobernable. Una reflexión sobre volver al Primer Paso como punto de partida para recuperar la calma.",
+        "en": "When fear, guilt, or shame take over, life becomes unmanageable. A reflection on returning to Step One as the starting point for regaining calm."
+      },
+      "topic_tag": "twelve_steps",
+      "url": "https://tengosedtemecula.org/cuando-pierdo-mi-paz-y-serenidad-regreso-al-primer-paso/"
+    },
+    {
+      "id": "elementos-recuperacion",
+      "title": { "es": "Elementos de la Recuperación", "en": "Elements of Recovery" },
+      "summary": {
+        "es": "Nadie sana solo. Seis prácticas fundamentales que sostienen el camino espiritual de recuperación, empezando por algo sencillo y poderoso: pertenecer a un grupo.",
+        "en": "No one heals alone. Six core practices that sustain the spiritual path of recovery, starting with something simple and powerful: belonging to a group."
+      },
+      "topic_tag": "recovery",
+      "url": "https://tengosedtemecula.org/elementos-de-la-recuperacion/"
+    },
+    {
+      "id": "soltar-para-sanar",
+      "title": { "es": "Soltar para sanar: un camino de los 12 Pasos", "en": "Letting go to heal: a 12-Step path" },
+      "summary": {
+        "es": "Soltar no es justificar lo ocurrido, sino liberar el corazón. Un recorrido por los Pasos para comenzar el proceso de perdón, con preguntas de reflexión en cada etapa.",
+        "en": "Letting go isn't excusing what happened; it's freeing the heart. A walk through the Steps to begin the process of forgiveness, with reflection questions at each stage."
+      },
+      "topic_tag": "forgiveness",
+      "url": "https://tengosedtemecula.org/soltar-para-sanar-un-camino-de-los-12-pasos/"
+    },
+    {
+      "id": "perdonar-imperdonable",
+      "title": { "es": "¿Cómo perdonar lo imperdonable?", "en": "How do you forgive the unforgivable?" },
+      "summary": {
+        "es": "Cuando la herida viene de nuestros padres o de alguien muy cercano, perdonar es más complejo. Ideas para reconocer sentimientos opuestos y distinguir a la persona de sus actos.",
+        "en": "When the wound comes from our parents or someone very close, forgiving is harder. Ideas for accepting mixed feelings and separating the person from their actions."
+      },
+      "topic_tag": "forgiveness",
+      "url": "https://tengosedtemecula.org/como-perdonar-lo-imperdonable/"
+    },
+    {
+      "id": "enfermedad-espiritual",
+      "title": { "es": "Una enfermedad emocional es una enfermedad espiritual", "en": "An emotional illness is a spiritual illness" },
+      "summary": {
+        "es": "El dolor emocional como un vacío interior y una desconexión con uno mismo, con los demás y con un Poder Superior, y cómo las emociones no atendidas se convierten en resentimiento, ansiedad o adicciones.",
+        "en": "Emotional pain as an inner emptiness and a disconnection from ourselves, others, and a Higher Power, and how unattended emotions turn into resentment, anxiety, or addiction."
+      },
+      "topic_tag": "spirituality",
+      "url": "https://tengosedtemecula.org/una-enfermedad-emocional-es-una-enfermedad-espiritual/"
+    },
+    {
+      "id": "estoicos-12-pasos",
+      "title": { "es": "Los Estoicos y el Programa de los 12 Pasos", "en": "The Stoics and the 12-Step Program" },
+      "summary": {
+        "es": "La filosofía estoica y los 12 Pasos comparten una misma sabiduría: la paz llega cuando aceptamos la realidad y soltamos el control. Una mirada a los tres primeros Pasos desde el estoicismo.",
+        "en": "Stoic philosophy and the 12 Steps share the same wisdom: peace comes when we accept reality and let go of control. A look at the first three Steps through Stoicism."
+      },
+      "topic_tag": "twelve_steps",
+      "url": "https://tengosedtemecula.org/los-estoicos-y-el-programa-de-los-12-pasos/"
+    },
+    {
+      "id": "etapas-duelo",
+      "title": { "es": "Etapas del Duelo", "en": "The Stages of Grief" },
+      "summary": {
+        "es": "Qué dicen los expertos sobre el duelo, empezando por las cinco etapas descritas por Elisabeth Kübler-Ross, para entender lo que sentimos ante una pérdida importante.",
+        "en": "What experts say about grief, starting with the five stages described by Elisabeth Kübler-Ross, to understand what we feel after a significant loss."
+      },
+      "topic_tag": "grief",
+      "url": "https://tengosedtemecula.org/el-duelo-inspired-by-elizabeth-kubler-ross-raymond-moody-deepak-chopra-y-otros/"
+    },
+    {
+      "id": "volver-a-casa",
+      "title": { "es": "Volver a casa", "en": "Homecoming" },
+      "summary": {
+        "es": "Inspirado en el libro de John Bradshaw sobre el niño interior: muchas dificultades emocionales de la vida adulta nacen de heridas de la infancia, y sanar es reencontrarnos con quienes realmente somos.",
+        "en": "Inspired by John Bradshaw's book on the inner child: many adult emotional struggles begin with childhood wounds, and healing means reconnecting with who we really are."
+      },
+      "topic_tag": "trauma",
+      "url": "https://tengosedtemecula.org/volver-a-casa/"
+    },
+    {
+      "id": "este-dolor-no-es-mio",
+      "title": { "es": "Este dolor no es mío", "en": "It Didn't Start With You" },
+      "summary": {
+        "es": "Inspirado en el libro de Mark Wolynn: algunos miedos, ansiedades o tristezas pueden venir de experiencias dolorosas que vivieron nuestros padres o abuelos. Cómo identificar y sanar el trauma familiar heredado.",
+        "en": "Inspired by Mark Wolynn's book: some fears, anxieties, or sadness may come from painful experiences lived by our parents or grandparents. How to identify and heal inherited family trauma."
+      },
+      "topic_tag": "trauma",
+      "url": "https://tengosedtemecula.org/este-dolor-no-es-mio-2/"
+    },
+    {
+      "id": "cerebro-despierto",
+      "title": { "es": "El Cerebro Despierto, por Lisa Miller", "en": "The Awakened Brain, by Lisa Miller" },
+      "summary": {
+        "es": "La espiritualidad como una capacidad natural del ser humano: lo que la investigación de Lisa Miller muestra sobre cómo cultivarla nos ayuda a regular emociones y a ser más fuertes ante el dolor.",
+        "en": "Spirituality as a natural human capacity: what Lisa Miller's research shows about how cultivating it helps us regulate emotions and grow stronger in the face of pain."
+      },
+      "topic_tag": "neuroscience",
+      "url": "https://tengosedtemecula.org/el-cerebro-despierto-por-lisa-miller/"
+    },
+    {
+      "id": "llave-de-oro",
+      "title": { "es": "La llave de oro y de la felicidad", "en": "The golden key to happiness" },
+      "summary": {
+        "es": "Una práctica de oración para momentos difíciles: dejar de darle vueltas al problema y poner la mente y el corazón en Dios.",
+        "en": "A prayer practice for difficult moments: stop going around in circles with the problem and turn the mind and heart toward God."
+      },
+      "topic_tag": "spirituality",
+      "url": "https://tengosedtemecula.org/la-llave-de-oro-y-de-la-felicidad/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_note": "Workshops & events. A workshop is 'upcoming' until its end_date (or start_date) has passed. Optional fields: end_date, facilitator, location, donation, spots, register_url (Google Form / Eventbrite / WhatsApp link), phone, more_url, materials [{label, url}] for slides/recordings of past workshops. To add one: copy the block below, change the id and texts.",
+  "workshops": [
+    {
+      "id": "5-heridas-2025",
+      "title": { "es": "Charla: Las 5 Heridas del Alma", "en": "Talk: The 5 Wounds of the Soul" },
+      "description": {
+        "es": "Una charla para aprender a identificar cinco heridas emocionales fundamentales —rechazo, abandono, humillación, traición e injusticia—, reconocer las máscaras que usamos para protegernos de ellas y descubrir formas prácticas de sanar y reconectar con nuestro verdadero ser.",
+        "en": "A talk on recognizing five core emotional wounds —rejection, abandonment, humiliation, betrayal, and injustice—, the masks we wear to protect ourselves from them, and practical ways to heal and reconnect with our true selves."
+      },
+      "start_date": "2025-02-28",
+      "end_date": "2025-03-07",
+      "schedule": {
+        "es": "Viernes 28 de febrero y viernes 7 de marzo de 2025, 7:00 – 9:00 PM",
+        "en": "Friday, February 28 and Friday, March 7, 2025, 7:00 – 9:00 PM"
+      },
+      "facilitator": "Psic. Clínica Lízbeth López Díaz",
+      "location": {
+        "es": "Temecula Valley Hospital, Sala Heroes (primer piso, entrada principal)",
+        "en": "Temecula Valley Hospital, Heroes Room (first floor, main entrance)"
+      },
+      "phone": "+19513264186",
+      "more_url": "https://tengosedtemecula.org/facilities-title-1-3/"
+    }
+  ]
+}

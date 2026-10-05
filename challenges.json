@@ -1,0 +1,141 @@
+{
+  "_note": "SAMPLE CONTENT written for the app - please review with the group. Each challenge has days[] with title, text, and a journaling prompt. Progress is stored on the phone by challenge id and day number, so don't change an id after people have started it.",
+  "challenges": [
+    {
+      "id": "corazon-al-papel",
+      "title": { "es": "Del Corazón al Papel", "en": "From the Heart to the Page" },
+      "description": {
+        "es": "7 días de escritura terapéutica. Cada día, un tema para poner en palabras lo que llevas dentro. No hay forma correcta de hacerlo: escribe con honestidad y sin juzgarte.",
+        "en": "7 days of therapeutic writing. Each day, a theme to put into words what you carry inside. There's no right way to do it: write honestly and without judging yourself."
+      },
+      "days": [
+        {
+          "title": { "es": "Dónde estoy hoy", "en": "Where I am today" },
+          "text": { "es": "Antes de sanar, necesitamos ver con claridad dónde estamos. Hoy solo describe tu momento actual, sin explicarlo ni arreglarlo.", "en": "Before we heal, we need to see clearly where we are. Today, simply describe your present moment, without explaining or fixing it." },
+          "prompt": { "es": "¿Cómo está mi vida hoy? ¿Qué siento al despertar y al irme a dormir?", "en": "What is my life like today? What do I feel when I wake up and when I go to sleep?" }
+        },
+        {
+          "title": { "es": "Lo que cargo", "en": "What I carry" },
+          "text": { "es": "Todos cargamos pesos invisibles: preocupaciones, secretos, expectativas. Nombrarlos es el primer paso para empezar a soltarlos.", "en": "We all carry invisible weights: worries, secrets, expectations. Naming them is the first step toward letting them go." },
+          "prompt": { "es": "Haz una lista de lo que te pesa en este momento. ¿Cuál de esas cosas no te corresponde cargar?", "en": "List what weighs on you right now. Which of these things is not yours to carry?" }
+        },
+        {
+          "title": { "es": "Carta a mi niño interior", "en": "Letter to my inner child" },
+          "text": { "es": "El niño o la niña que fuiste sigue dentro de ti. Hoy escríbele con la ternura que quizás no recibió en su momento.", "en": "The child you once were is still inside you. Today, write to them with the tenderness they may not have received back then." },
+          "prompt": { "es": "Querido(a) yo de niño(a): lo que necesitabas escuchar era…", "en": "Dear younger me: what you needed to hear was…" }
+        },
+        {
+          "title": { "es": "Mis resentimientos", "en": "My resentments" },
+          "text": { "es": "El resentimiento es volver a sentir una herida una y otra vez. Escribirlo lo saca de la mente y lo pone frente a nosotros, donde podemos mirarlo.", "en": "Resentment is feeling a wound again and again. Writing it down takes it out of our heads and puts it in front of us, where we can look at it." },
+          "prompt": { "es": "¿A quién o qué le guardo resentimiento? ¿Qué parte de mí se sintió herida: mi seguridad, mi autoestima, mis relaciones?", "en": "Whom or what do I resent? Which part of me felt hurt: my security, my self-esteem, my relationships?" }
+        },
+        {
+          "title": { "es": "Mi parte", "en": "My part" },
+          "text": { "es": "Sin culparnos de lo que otros hicieron, también podemos mirar con honestidad nuestra parte. Esto no es castigo: es libertad.", "en": "Without blaming ourselves for what others did, we can also look honestly at our part. This isn't punishment: it's freedom." },
+          "prompt": { "es": "En las situaciones de ayer, ¿hubo algo que yo hice o dejé de hacer? ¿Qué haría distinto hoy?", "en": "In yesterday's situations, was there something I did or failed to do? What would I do differently today?" }
+        },
+        {
+          "title": { "es": "Una carta que no enviaré", "en": "A letter I won't send" },
+          "text": { "es": "A veces necesitamos decir lo que nunca dijimos. Esta carta es solo para ti: no tienes que enviarla. Es una forma de liberar el corazón.", "en": "Sometimes we need to say what we never said. This letter is only for you: you don't have to send it. It's a way to free the heart." },
+          "prompt": { "es": "Escríbele a alguien lo que nunca le dijiste. Termina con lo que eliges soltar.", "en": "Write to someone what you never told them. End with what you choose to let go of." }
+        },
+        {
+          "title": { "es": "Gratitud y compromiso", "en": "Gratitude and commitment" },
+          "text": { "es": "Cerramos la semana mirando lo que hemos ganado. Reconoce tu valentía por haber llegado hasta aquí.", "en": "We close the week by looking at what we've gained. Recognize your courage for coming this far." },
+          "prompt": { "es": "¿Qué descubrí de mí esta semana? ¿Qué pequeño compromiso hago conmigo para los próximos días?", "en": "What did I discover about myself this week? What small commitment do I make to myself for the coming days?" }
+        }
+      ]
+    },
+    {
+      "id": "reto-bondad",
+      "title": { "es": "Reto de la Bondad", "en": "Kindness Challenge" },
+      "description": {
+        "es": "7 días de pequeños actos de bondad. Cuando elegimos actuar con amor, sembramos paz en los demás y también dentro de nosotros. Inspirado en el reto que hizo el grupo Tengo Sed.",
+        "en": "7 days of small acts of kindness. When we choose to act with love, we plant peace in others and within ourselves. Inspired by the challenge the Tengo Sed group ran."
+      },
+      "source_url": "https://tengosedtemecula.org/la-bondad-como-medicina-del-alma/",
+      "days": [
+        {
+          "title": { "es": "Una sonrisa", "en": "A smile" },
+          "text": { "es": "Hoy saluda con una sonrisa sincera a alguien que normalmente pasarías de largo.", "en": "Today, greet someone you'd usually pass by with a sincere smile." },
+          "prompt": { "es": "¿Cómo reaccionó la otra persona? ¿Cómo me sentí yo?", "en": "How did the other person react? How did I feel?" }
+        },
+        {
+          "title": { "es": "Un mensaje de aliento", "en": "A message of encouragement" },
+          "text": { "es": "Envía un mensaje a alguien que esté pasando por un momento difícil. No tienes que resolver nada; solo hazle saber que piensas en él o ella.", "en": "Send a message to someone going through a hard time. You don't have to fix anything; just let them know you're thinking of them." },
+          "prompt": { "es": "¿A quién le escribí y por qué pensé en esa persona?", "en": "Whom did I write to, and why did I think of them?" }
+        },
+        {
+          "title": { "es": "Escuchar de verdad", "en": "Truly listen" },
+          "text": { "es": "Hoy escucha a alguien sin interrumpir, sin dar consejos y sin pensar en tu respuesta. Solo presencia.", "en": "Today, listen to someone without interrupting, without giving advice, and without planning your reply. Just presence." },
+          "prompt": { "es": "¿Qué fue lo más difícil de solo escuchar?", "en": "What was hardest about only listening?" }
+        },
+        {
+          "title": { "es": "Una ayuda práctica", "en": "Practical help" },
+          "text": { "es": "Ofrece una ayuda concreta sin que te la pidan: cargar algo, hacer un mandado, ceder tu lugar.", "en": "Offer concrete help without being asked: carry something, run an errand, give up your place in line." },
+          "prompt": { "es": "¿Qué ayuda ofrecí? ¿Esperaba algo a cambio?", "en": "What help did I offer? Did I expect anything in return?" }
+        },
+        {
+          "title": { "es": "Bondad conmigo", "en": "Kindness to myself" },
+          "text": { "es": "La bondad también empieza por casa. Hoy háblate como le hablarías a alguien que amas.", "en": "Kindness also begins at home. Today, speak to yourself the way you would speak to someone you love." },
+          "prompt": { "es": "¿Qué palabra dura me digo a menudo? ¿Cómo la diría con amor?", "en": "What harsh word do I often say to myself? How would I say it with love?" }
+        },
+        {
+          "title": { "es": "Un gracias sincero", "en": "A sincere thank you" },
+          "text": { "es": "Agradece a alguien algo específico que hizo por ti, aunque haya sido hace tiempo.", "en": "Thank someone for something specific they did for you, even if it was long ago." },
+          "prompt": { "es": "¿A quién le agradecí y qué le dije?", "en": "Whom did I thank, and what did I say?" }
+        },
+        {
+          "title": { "es": "Bondad anónima", "en": "Anonymous kindness" },
+          "text": { "es": "Haz algo bueno por alguien sin que sepa que fuiste tú. La bondad no necesita aplauso.", "en": "Do something good for someone without them knowing it was you. Kindness doesn't need applause." },
+          "prompt": { "es": "¿Cómo cambió mi corazón esta semana de bondad?", "en": "How did this week of kindness change my heart?" }
+        }
+      ]
+    },
+    {
+      "id": "siete-dias-gratitud",
+      "title": { "es": "7 días de gratitud", "en": "7 days of gratitude" },
+      "description": {
+        "es": "Una semana para entrenar la mirada y descubrir lo que sí tenemos. La gratitud no niega el dolor, pero nos recuerda que el dolor no es lo único que hay.",
+        "en": "A week to train our eyes to see what we do have. Gratitude doesn't deny the pain, but it reminds us that pain isn't all there is."
+      },
+      "days": [
+        {
+          "title": { "es": "Tres cosas pequeñas", "en": "Three small things" },
+          "text": { "es": "Empieza por lo sencillo: el café, una llamada, un momento de calma.", "en": "Start with the simple things: coffee, a phone call, a moment of calm." },
+          "prompt": { "es": "Escribe tres cosas pequeñas por las que hoy estás agradecido(a).", "en": "Write three small things you're grateful for today." }
+        },
+        {
+          "title": { "es": "Mi cuerpo", "en": "My body" },
+          "text": { "es": "Nuestro cuerpo nos sostiene cada día, aunque a veces lo olvidemos.", "en": "Our body carries us every day, even when we forget it." },
+          "prompt": { "es": "¿Qué puede hacer hoy mi cuerpo por lo que doy gracias?", "en": "What can my body do today that I'm thankful for?" }
+        },
+        {
+          "title": { "es": "Una persona", "en": "One person" },
+          "text": { "es": "Piensa en alguien que te ha acompañado en tu camino.", "en": "Think of someone who has walked with you on your path." },
+          "prompt": { "es": "¿Qué me ha dado esta persona? ¿Se lo he dicho alguna vez?", "en": "What has this person given me? Have I ever told them?" }
+        },
+        {
+          "title": { "es": "Algo difícil", "en": "Something difficult" },
+          "text": { "es": "A veces las pruebas nos enseñan lo que nada más podía enseñarnos.", "en": "Sometimes hardships teach us what nothing else could." },
+          "prompt": { "es": "¿Qué experiencia difícil me dejó un aprendizaje que hoy valoro?", "en": "What difficult experience left me a lesson I value today?" }
+        },
+        {
+          "title": { "es": "Mi grupo", "en": "My group" },
+          "text": { "es": "No caminamos solos. El grupo es un regalo que a veces damos por hecho.", "en": "We don't walk alone. The group is a gift we sometimes take for granted." },
+          "prompt": { "es": "¿Qué he recibido del grupo o de mi comunidad?", "en": "What have I received from the group or my community?" }
+        },
+        {
+          "title": { "es": "Yo mismo(a)", "en": "Myself" },
+          "text": { "es": "También podemos agradecernos a nosotros mismos por no rendirnos.", "en": "We can also thank ourselves for not giving up." },
+          "prompt": { "es": "¿Qué cualidad mía me ha ayudado a seguir adelante?", "en": "What quality of mine has helped me keep going?" }
+        },
+        {
+          "title": { "es": "Hoy", "en": "Today" },
+          "text": { "es": "Cerramos la semana dando gracias por este día, tal como es.", "en": "We close the week giving thanks for this day, just as it is." },
+          "prompt": { "es": "¿Qué cambió en mí al practicar la gratitud cada día?", "en": "What changed in me by practicing gratitude each day?" }
+        }
+      ]
+    }
+  ]
+}
