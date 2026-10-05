@@ -1,0 +1,51 @@
+{
+  "_note": "Group info shown in 'Sobre Tengo Sed'. Edit this file on GitHub to change meeting times, address, rules, or links without a new app release. Source: tengosedtemecula.org and the group's Facebook page (October 2026).",
+  "description": {
+    "es": "Tengo Sed es un grupo espiritual de recuperación basado en los 12 Pasos. Nos reunimos como comunidad para acompañarnos en un camino de sanación y crecimiento personal, en un espacio seguro y confidencial donde compartimos nuestras experiencias con respeto y empatía.",
+    "en": "Tengo Sed (\"I Thirst\") is a spiritual recovery group based on the 12 Steps. We come together as a community to support each other on a path of healing and personal growth, in a safe and confidential space where we share our experiences with respect and empathy."
+  },
+  "principles": {
+    "es": "Honestidad · Esperanza · Fe · Coraje · Integridad · Humildad · Amor fraternal · Disciplina · Perseverancia · Servicio",
+    "en": "Honesty · Hope · Faith · Courage · Integrity · Humility · Brotherly love · Discipline · Perseverance · Service"
+  },
+  "meetings": {
+    "es": "Lunes y viernes, de 7:00 a 9:00 PM",
+    "en": "Mondays and Fridays, 7:00 – 9:00 PM"
+  },
+  "meetings_note": {
+    "es": "Juntas en español · Gratis · Ingreso libre",
+    "en": "Meetings in Spanish · Free · Everyone welcome"
+  },
+  "location": {
+    "es": "Temecula Valley Hospital\nSala Heroes, primer piso (entrada principal)",
+    "en": "Temecula Valley Hospital\nHeroes Room, first floor (main entrance)"
+  },
+  "address": "31700 Temecula Parkway, Temecula, CA",
+  "phone": "+19513264186",
+  "phone_display": "(951) 326-4186",
+  "how_to_join": {
+    "es": "No necesitas registrarte ni pagar. Solo ven a cualquier junta, lunes o viernes a las 7:00 PM. Si es tu primera vez, llegas como visita: tendrás un lugar especial y prioridad para compartir, si lo deseas. Si tienes preguntas, puedes llamarnos antes.",
+    "en": "You don't need to register or pay. Just come to any meeting, Monday or Friday at 7:00 PM. If it's your first time, you are welcomed as a visitor: you'll have a special place and priority to share, if you wish. If you have questions, you can call us first."
+  },
+  "meeting_format": {
+    "es": "Cada junta empieza con un minuto de meditación y la Oración de San Francisco. Leemos el Preámbulo, los 12 Pasos, las 12 Tradiciones y la reflexión del día. Después, quienes lo desean comparten su testimonio. Cerramos con la Oración de la Serenidad.",
+    "en": "Each meeting begins with a minute of meditation and the Prayer of Saint Francis. We read the Preamble, the 12 Steps, the 12 Traditions, and the reflection of the day. Then, those who wish share their testimony. We close with the Serenity Prayer."
+  },
+  "rules": [
+    { "es": "Las juntas empiezan puntualmente a las 7:00 PM y terminan a las 9:00 PM.", "en": "Meetings start promptly at 7:00 PM and end at 9:00 PM." },
+    { "es": "Para compartir, levanta la mano y espera tu turno. Cada persona tiene hasta 10 minutos.", "en": "To share, raise your hand and wait your turn. Each person has up to 10 minutes." },
+    { "es": "Escuchamos en silencio y con respeto: sin interrumpir, comentar, enviar mensajes ni hacer gestos.", "en": "We listen in silence and with respect: no interrupting, commenting, texting, or gestures." },
+    { "es": "Cada quien habla solo desde su propia experiencia, sin dar consejos ni terapia a otros.", "en": "Each person speaks only from their own experience, without giving advice or therapy to others." },
+    { "es": "Usamos un lenguaje respetuoso, apropiado para todas las edades.", "en": "We use respectful language, appropriate for all ages." },
+    { "es": "Quien haya consumido alcohol o drogas en las últimas 24 horas no puede compartir en la tribuna.", "en": "Anyone who has used alcohol or drugs in the last 24 hours may not share at the podium." },
+    { "es": "Tolerancia cero a cualquier forma de violencia, dentro o fuera de la sala.", "en": "Zero tolerance for any form of violence, inside or outside the room." },
+    { "es": "Séptima Tradición: media hora antes del cierre se pasa una canasta para contribuciones voluntarias.", "en": "Seventh Tradition: half an hour before closing, a basket is passed for voluntary contributions." }
+  ],
+  "rules_url": "https://tengosedtemecula.org/facilities-title-2-3/",
+  "links": [
+    { "label": { "es": "Sitio web", "en": "Website" }, "url": "https://tengosedtemecula.org" },
+    { "label": { "es": "Facebook", "en": "Facebook" }, "url": "https://www.facebook.com/people/TENGO-SED-Temecula-CA/61567192806949/" },
+    { "label": { "es": "Instagram", "en": "Instagram" }, "url": "https://www.instagram.com/tengosed.temecula/" },
+    { "label": { "es": "YouTube", "en": "YouTube" }, "url": "https://www.youtube.com/@TengoSedTemecula" }
+  ]
+}
