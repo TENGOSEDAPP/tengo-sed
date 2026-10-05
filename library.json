@@ -1,0 +1,116 @@
+{
+  "_note": "Library tab: group materials (links to tengosedtemecula.org) and recommended books. Books show a summary and why they're recommended; the app links to library/Google Books searches, never the full text. Book list taken from the books the group's own articles and talks are based on - group to approve/add.",
+  "materials": [
+    {
+      "title": { "es": "Las Doce Tradiciones", "en": "The Twelve Traditions" },
+      "description": { "es": "Los principios que guían la vida del grupo y su unidad.", "en": "The principles that guide the group's life and unity." },
+      "url": "https://tengosedtemecula.org/docetradiciones/"
+    },
+    {
+      "title": { "es": "Metodología de los 12 Pasos", "en": "12-Step methodology" },
+      "description": { "es": "Cómo trabaja el grupo los Pasos.", "en": "How the group works the Steps." },
+      "url": "https://tengosedtemecula.org/metodologia/"
+    },
+    {
+      "title": { "es": "Autonomías", "en": "Group autonomies (rules)" },
+      "description": { "es": "Las normas completas del grupo Tengo Sed.", "en": "The Tengo Sed group's full rules." },
+      "url": "https://tengosedtemecula.org/facilities-title-2-3/"
+    },
+    {
+      "title": { "es": "Guía de la junta", "en": "Meeting guide" },
+      "description": { "es": "El orden de cada reunión, de la meditación inicial a la Oración de la Serenidad.", "en": "The order of each meeting, from the opening meditation to the Serenity Prayer." },
+      "url": "https://tengosedtemecula.org/guia/"
+    },
+    {
+      "title": { "es": "El coordinador", "en": "The coordinator" },
+      "description": { "es": "El servicio de coordinar una junta.", "en": "The service of coordinating a meeting." },
+      "url": "https://tengosedtemecula.org/coordinador/"
+    },
+    {
+      "title": { "es": "Séptima Tradición", "en": "Seventh Tradition" },
+      "description": { "es": "Por qué el grupo se sostiene con sus propias contribuciones.", "en": "Why the group supports itself through its own contributions." },
+      "url": "https://tengosedtemecula.org/septima/"
+    },
+    {
+      "title": { "es": "Videos de Tengo Sed", "en": "Tengo Sed videos" },
+      "description": { "es": "Charlas y videos del grupo.", "en": "Talks and videos from the group." },
+      "url": "https://tengosedtemecula.org/videos/"
+    },
+    {
+      "title": { "es": "Boletines", "en": "Newsletters" },
+      "description": { "es": "Los boletines publicados por el grupo.", "en": "Newsletters published by the group." },
+      "url": "https://tengosedtemecula.org/boletines/"
+    }
+  ],
+  "books": [
+    {
+      "id": "volver-a-casa",
+      "title": { "es": "Volver a casa: recuperación y reivindicación del niño interior", "en": "Homecoming: Reclaiming and Championing Your Inner Child" },
+      "author": "John Bradshaw",
+      "summary": {
+        "es": "Un clásico sobre el trabajo con el niño interior. Bradshaw explica cómo muchas dificultades emocionales de la vida adulta nacen de necesidades de la infancia que no fueron atendidas, y propone ejercicios para reconocer esas heridas y cuidar de ellas.",
+        "en": "A classic on inner-child work. Bradshaw explains how many adult emotional struggles grow out of unmet childhood needs, and offers exercises to recognize those wounds and care for them."
+      },
+      "why": {
+        "es": "Acompaña muy bien el trabajo de los Pasos 4 al 7 y la escritura en el diario, sobre todo cuando lo que duele viene de la familia de origen.",
+        "en": "It pairs well with Steps 4 through 7 and journaling, especially when the pain comes from our family of origin."
+      },
+      "related_article": "volver-a-casa"
+    },
+    {
+      "id": "este-dolor-no-es-mio",
+      "title": { "es": "Este dolor no es mío", "en": "It Didn't Start With You" },
+      "author": "Mark Wolynn",
+      "summary": {
+        "es": "Wolynn explora cómo algunos miedos, ansiedades o tristezas pueden estar ligados a experiencias dolorosas de generaciones anteriores, y propone un camino para identificar esos patrones familiares y liberarse de ellos.",
+        "en": "Wolynn explores how some fears, anxieties, or sadness may be linked to painful experiences of earlier generations, and offers a path to identify those family patterns and break free of them."
+      },
+      "why": {
+        "es": "Ayuda a mirar nuestra historia con compasión y a entender emociones que no sabemos de dónde vienen.",
+        "en": "It helps us look at our history with compassion and understand feelings we can't explain."
+      },
+      "related_article": "este-dolor-no-es-mio"
+    },
+    {
+      "id": "cerebro-despierto",
+      "title": { "es": "El cerebro despierto", "en": "The Awakened Brain" },
+      "author": "Lisa Miller",
+      "summary": {
+        "es": "Una psicóloga e investigadora presenta estudios que muestran la espiritualidad como una capacidad natural del ser humano, y cómo cultivarla protege frente a la depresión y fortalece la resiliencia.",
+        "en": "A psychologist and researcher presents studies showing spirituality as a natural human capacity, and how cultivating it protects against depression and builds resilience."
+      },
+      "why": {
+        "es": "Une la ciencia con la experiencia espiritual del programa, especialmente los Pasos 2, 3 y 11.",
+        "en": "It connects science with the program's spiritual experience, especially Steps 2, 3, and 11."
+      },
+      "related_article": "cerebro-despierto"
+    },
+    {
+      "id": "cinco-heridas",
+      "title": { "es": "Las 5 heridas que impiden ser uno mismo", "en": "Heal Your Wounds and Find Your True Self" },
+      "author": "Lise Bourbeau",
+      "summary": {
+        "es": "Describe cinco heridas emocionales —rechazo, abandono, humillación, traición e injusticia— y las máscaras que desarrollamos para protegernos de ellas, con pistas para reconocerlas y sanarlas.",
+        "en": "Describes five emotional wounds —rejection, abandonment, humiliation, betrayal, and injustice— and the masks we develop to protect ourselves from them, with clues for recognizing and healing them."
+      },
+      "why": {
+        "es": "Es el tema del taller \"Las 5 Heridas del Alma\" que ofreció el grupo, y una buena guía para el inventario del Paso 4.",
+        "en": "It's the theme of the group's \"5 Wounds of the Soul\" workshop, and a good guide for the Step 4 inventory."
+      }
+    },
+    {
+      "id": "sobre-la-muerte",
+      "title": { "es": "Sobre la muerte y los moribundos", "en": "On Death and Dying" },
+      "author": "Elisabeth Kübler-Ross",
+      "summary": {
+        "es": "La obra en la que Kübler-Ross describe, a partir de su trabajo con pacientes, las etapas emocionales que muchas personas atraviesan ante una pérdida: negación, ira, negociación, depresión y aceptación.",
+        "en": "The work in which Kübler-Ross describes, from her work with patients, the emotional stages many people go through when facing loss: denial, anger, bargaining, depression, and acceptance."
+      },
+      "why": {
+        "es": "Ayuda a entender que el duelo tiene su propio ritmo y que lo que sentimos es parte del proceso.",
+        "en": "It helps us understand that grief has its own rhythm and that what we feel is part of the process."
+      },
+      "related_article": "etapas-duelo"
+    }
+  ]
+}

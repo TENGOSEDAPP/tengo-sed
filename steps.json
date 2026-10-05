@@ -1,0 +1,222 @@
+{
+  "_note": "SAMPLE CONTENT written for the app in our own words (not the official text of the Steps, which is linked via official_url). Please review with the group. related_topics match reflection topic tags; related_articles / related_audio are ids from articles.json / audio.json.",
+  "official_url": "https://tengosedtemecula.org/docepasos/",
+  "steps": [
+    {
+      "number": 1,
+      "name": { "es": "Aceptar la realidad", "en": "Accepting reality" },
+      "summary": { "es": "Reconocer que, por nuestra cuenta, no hemos podido controlar lo que nos domina.", "en": "Recognizing that, on our own, we haven't been able to control what overpowers us." },
+      "explanation": {
+        "es": "El primer paso es dejar de pelear con la evidencia. Durante mucho tiempo intentamos controlar una emoción, una relación o una conducta, y cada intento nos dejaba más cansados. Admitir que solos no pudimos no es una derrota: es el momento en que por fin dejamos de mentirnos y abrimos la puerta a la ayuda.",
+        "en": "The first step is to stop fighting the evidence. For a long time we tried to control a feeling, a relationship, or a behavior, and each attempt left us more exhausted. Admitting that we couldn't do it alone isn't defeat: it's the moment we finally stop lying to ourselves and open the door to help."
+      },
+      "principle": { "es": "Honestidad", "en": "Honesty" },
+      "questions": [
+        { "es": "¿Qué he intentado controlar una y otra vez sin resultado?", "en": "What have I tried to control again and again without success?" },
+        { "es": "¿En qué áreas de mi vida siento que perdí el rumbo?", "en": "In which areas of my life do I feel I've lost my way?" },
+        { "es": "¿Qué me da miedo admitir?", "en": "What am I afraid to admit?" }
+      ],
+      "related_topics": ["acceptance"],
+      "related_articles": ["primer-paso-paz", "aceptacion", "estoicos-12-pasos"],
+      "related_audio": ["meditation-bells"]
+    },
+    {
+      "number": 2,
+      "name": { "es": "Recuperar la esperanza", "en": "Recovering hope" },
+      "summary": { "es": "Abrirnos a la idea de que algo más grande que nosotros puede devolvernos el equilibrio.", "en": "Opening up to the idea that something greater than us can bring back our balance." },
+      "explanation": {
+        "es": "Después de reconocer nuestros límites, aparece una pregunta: ¿hay salida? Este paso nos invita a abrirnos a la posibilidad de que algo más grande que nosotros —Dios, como cada uno lo entienda— pueda devolvernos el equilibrio. No hace falta tener una fe completa; basta con estar abiertos a creer.",
+        "en": "After recognizing our limits, a question appears: is there a way out? This step invites us to open up to the possibility that something greater than ourselves —God, as each of us understands God— can restore our balance. We don't need complete faith; it's enough to be open to believing."
+      },
+      "principle": { "es": "Esperanza", "en": "Hope" },
+      "questions": [
+        { "es": "¿Qué creo hoy sobre un Poder Superior?", "en": "What do I believe today about a Higher Power?" },
+        { "es": "¿He visto a otras personas recuperarse? ¿Qué me dice eso?", "en": "Have I seen other people recover? What does that tell me?" },
+        { "es": "¿Qué significaría para mí recuperar la serenidad?", "en": "What would recovering serenity mean to me?" }
+      ],
+      "related_topics": ["spirituality"],
+      "related_articles": ["enfermedad-espiritual", "cerebro-despierto"],
+      "related_audio": []
+    },
+    {
+      "number": 3,
+      "name": { "es": "Confiar y soltar", "en": "Trusting and letting go" },
+      "summary": { "es": "Elegir confiar nuestra vida al cuidado de Dios, como cada quien lo entienda.", "en": "Choosing to trust our lives to God's care, as we each understand God." },
+      "explanation": {
+        "es": "Este paso es una decisión, no un sentimiento. Decidimos dejar de dirigirlo todo con nuestra propia fuerza y confiar en un cuidado más grande. Soltar no significa dejar de actuar, sino actuar sin cargar con el resultado. Muchas personas renuevan esta decisión cada mañana.",
+        "en": "This step is a decision, not a feeling. We decide to stop running everything on our own strength and to trust in a greater care. Letting go doesn't mean we stop acting; it means acting without carrying the outcome. Many people renew this decision every morning."
+      },
+      "principle": { "es": "Fe", "en": "Faith" },
+      "questions": [
+        { "es": "¿Qué me cuesta más soltar?", "en": "What is hardest for me to let go of?" },
+        { "es": "¿Cómo sería un día en el que confío en lugar de controlar?", "en": "What would a day look like in which I trust instead of control?" },
+        { "es": "¿Qué decisión puedo renovar hoy?", "en": "What decision can I renew today?" }
+      ],
+      "related_topics": ["acceptance", "spirituality"],
+      "related_articles": ["estoicos-12-pasos", "llave-de-oro"],
+      "related_audio": ["meditation-calm"]
+    },
+    {
+      "number": 4,
+      "name": { "es": "Mirarme con honestidad", "en": "Looking at myself honestly" },
+      "summary": { "es": "Hacer un inventario valiente de nuestra vida: resentimientos, miedos y conductas.", "en": "Taking a courageous inventory of our lives: resentments, fears, and behaviors." },
+      "explanation": {
+        "es": "El inventario es una mirada honesta hacia adentro, como quien revisa una casa para saber qué hay que reparar. Escribimos nuestros resentimientos, miedos y la forma en que hemos actuado, sin juzgarnos. También anotamos nuestras cualidades: el objetivo es conocernos, no castigarnos.",
+        "en": "The inventory is an honest look inward, like checking a house to know what needs repair. We write down our resentments, fears, and the ways we've acted, without judging ourselves. We also note our strengths: the goal is to know ourselves, not to punish ourselves."
+      },
+      "principle": { "es": "Coraje", "en": "Courage" },
+      "questions": [
+        { "es": "¿A quién o qué le guardo resentimiento, y qué parte de mí se sintió afectada?", "en": "Whom or what do I resent, and which part of me was affected?" },
+        { "es": "¿Cuáles son mis miedos más profundos?", "en": "What are my deepest fears?" },
+        { "es": "¿Qué cualidades tengo que me han ayudado a seguir adelante?", "en": "What strengths do I have that have helped me keep going?" }
+      ],
+      "related_topics": ["honesty", "resentment"],
+      "related_articles": ["soltar-para-sanar"],
+      "related_audio": []
+    },
+    {
+      "number": 5,
+      "name": { "es": "Compartir mi verdad", "en": "Sharing my truth" },
+      "summary": { "es": "Contar a Dios, a nosotros mismos y a alguien de confianza la verdad que encontramos.", "en": "Telling God, ourselves, and someone we trust the truth we found." },
+      "explanation": {
+        "es": "Los secretos pesan más en la oscuridad. Compartir nuestro inventario con una persona de confianza —un padrino, una madrina o un compañero del grupo— rompe el aislamiento. Descubrimos que no somos los únicos y que podemos ser aceptados tal como somos.",
+        "en": "Secrets weigh more in the dark. Sharing our inventory with a trusted person —a sponsor or a fellow group member— breaks our isolation. We discover that we're not the only ones and that we can be accepted just as we are."
+      },
+      "principle": { "es": "Integridad", "en": "Integrity" },
+      "questions": [
+        { "es": "¿Qué parte de mi historia nunca le he contado a nadie?", "en": "What part of my story have I never told anyone?" },
+        { "es": "¿Con quién me sentiría seguro(a) para compartirla?", "en": "With whom would I feel safe sharing it?" },
+        { "es": "¿Qué temo que pase si lo cuento?", "en": "What am I afraid will happen if I tell it?" }
+      ],
+      "related_topics": ["honesty", "community"],
+      "related_articles": ["elementos-recuperacion"],
+      "related_audio": []
+    },
+    {
+      "number": 6,
+      "name": { "es": "Estar dispuesto a cambiar", "en": "Becoming willing to change" },
+      "summary": { "es": "Prepararnos de corazón para que Dios nos libere de los defectos que nos dañan a nosotros y a otros.", "en": "Getting fully ready for God to free us from the defects that hurt us and others." },
+      "explanation": {
+        "es": "Conocer nuestros defectos no basta; a veces nos aferramos a ellos porque nos protegieron en el pasado. Este paso es un tiempo de preparación: reconocer para qué nos sirvió cada defecto y aceptar que ya no lo necesitamos.",
+        "en": "Knowing our defects isn't enough; sometimes we hold on to them because they protected us in the past. This step is a time of preparation: recognizing what each defect did for us and accepting that we no longer need it."
+      },
+      "principle": { "es": "Disposición", "en": "Willingness" },
+      "questions": [
+        { "es": "¿Qué defecto de carácter se repite más en mi vida?", "en": "Which character defect shows up most in my life?" },
+        { "es": "¿De qué me protegía ese defecto?", "en": "What was that defect protecting me from?" },
+        { "es": "¿Estoy dispuesto(a) a soltarlo? ¿Qué me detiene?", "en": "Am I willing to let it go? What's holding me back?" }
+      ],
+      "related_topics": ["humility"],
+      "related_articles": ["volver-a-casa"],
+      "related_audio": []
+    },
+    {
+      "number": 7,
+      "name": { "es": "Pedir ayuda con humildad", "en": "Asking for help with humility" },
+      "summary": { "es": "Pedir con humildad a Dios ayuda para soltar nuestros defectos.", "en": "Asking God, with humility, for help letting go of our shortcomings." },
+      "explanation": {
+        "es": "La humildad no es humillación: es vernos en nuestro tamaño real. En este paso dejamos de intentar arreglarnos solos y pedimos ayuda. Cada vez que un defecto aparece, podemos detenernos, reconocerlo y pedir la fuerza para actuar distinto.",
+        "en": "Humility isn't humiliation: it's seeing ourselves at our true size. In this step we stop trying to fix ourselves alone and ask for help. Each time a defect shows up, we can pause, recognize it, and ask for the strength to act differently."
+      },
+      "principle": { "es": "Humildad", "en": "Humility" },
+      "questions": [
+        { "es": "¿Qué le pediría hoy a mi Poder Superior?", "en": "What would I ask of my Higher Power today?" },
+        { "es": "¿Cuándo apareció hoy mi defecto, y cómo pude actuar distinto?", "en": "When did my defect show up today, and how could I have acted differently?" },
+        { "es": "¿Qué significa para mí la humildad?", "en": "What does humility mean to me?" }
+      ],
+      "related_topics": ["humility"],
+      "related_articles": ["llave-de-oro"],
+      "related_audio": []
+    },
+    {
+      "number": 8,
+      "name": { "es": "Reconocer el daño", "en": "Recognizing harm" },
+      "summary": { "es": "Escribir a quiénes hemos lastimado y abrirnos a repararlo.", "en": "Writing down whom we have hurt and opening ourselves to repairing it." },
+      "explanation": {
+        "es": "Miramos nuestras relaciones con honestidad y escribimos a quién hemos lastimado. No se trata de cargar con culpa, sino de asumir responsabilidad. A veces la primera persona en la lista somos nosotros mismos.",
+        "en": "We look honestly at our relationships and write down whom we've hurt. It's not about carrying guilt, but about taking responsibility. Sometimes the first person on the list is ourselves."
+      },
+      "principle": { "es": "Amor fraternal", "en": "Brotherly love" },
+      "questions": [
+        { "es": "¿A quién he lastimado con mis palabras o acciones?", "en": "Whom have I hurt with my words or actions?" },
+        { "es": "¿Me incluyo en la lista? ¿Cómo me he hecho daño?", "en": "Do I include myself on the list? How have I hurt myself?" },
+        { "es": "¿Hay alguien a quien todavía no estoy dispuesto(a) a enfrentar?", "en": "Is there someone I'm not yet willing to face?" }
+      ],
+      "related_topics": ["resentment", "guilt"],
+      "related_articles": ["perdonar-imperdonable"],
+      "related_audio": []
+    },
+    {
+      "number": 9,
+      "name": { "es": "Reparar", "en": "Making amends" },
+      "summary": { "es": "Reparar el daño directamente cuando podamos, salvo si eso lastimaría a alguien.", "en": "Repairing harm directly where we can, unless doing so would hurt someone." },
+      "explanation": {
+        "es": "Reparar es más que pedir perdón: es cambiar nuestra conducta y, cuando se puede, corregir lo que hicimos. Lo hacemos con prudencia, pidiendo consejo, para no abrir heridas nuevas. Muchas veces la mejor reparación es vivir de otra manera.",
+        "en": "Making amends is more than saying sorry: it's changing our behavior and, when possible, correcting what we did. We do it with care, seeking advice, so we don't open new wounds. Often the best amend is living differently."
+      },
+      "principle": { "es": "Justicia", "en": "Justice" },
+      "questions": [
+        { "es": "¿Qué reparación puedo hacer esta semana?", "en": "What amend can I make this week?" },
+        { "es": "¿Hay alguna reparación que podría causar más daño? ¿A quién puedo pedir consejo?", "en": "Is there an amend that could cause more harm? Whom can I ask for advice?" },
+        { "es": "¿Cómo puedo reparar con mis acciones, no solo con palabras?", "en": "How can I make amends with my actions, not only words?" }
+      ],
+      "related_topics": ["guilt", "forgiveness"],
+      "related_articles": ["soltar-para-sanar"],
+      "related_audio": []
+    },
+    {
+      "number": 10,
+      "name": { "es": "Revisar cada día", "en": "Checking in each day" },
+      "summary": { "es": "Revisarnos a diario y reconocer nuestros errores de inmediato.", "en": "Looking at ourselves daily and owning our mistakes right away." },
+      "explanation": {
+        "es": "La recuperación no termina; se practica cada día. Al final del día revisamos con calma: ¿dónde actué con amor? ¿Dónde me equivoqué? Admitir un error a tiempo evita que se convierta en un nuevo resentimiento.",
+        "en": "Recovery doesn't end; it's practiced every day. At the end of the day we calmly review: where did I act with love? Where was I wrong? Admitting a mistake promptly keeps it from becoming a new resentment."
+      },
+      "principle": { "es": "Perseverancia", "en": "Perseverance" },
+      "questions": [
+        { "es": "¿Qué hice bien hoy?", "en": "What did I do well today?" },
+        { "es": "¿Dónde actué por miedo, enojo o egoísmo?", "en": "Where did I act out of fear, anger, or selfishness?" },
+        { "es": "¿Le debo una disculpa a alguien hoy?", "en": "Do I owe anyone an apology today?" }
+      ],
+      "related_topics": ["honesty", "perseverance"],
+      "related_articles": ["primer-paso-paz"],
+      "related_audio": []
+    },
+    {
+      "number": 11,
+      "name": { "es": "Cultivar la conexión espiritual", "en": "Nurturing spiritual connection" },
+      "summary": { "es": "Acercarnos a Dios por medio de la oración y la meditación.", "en": "Growing closer to God through prayer and meditation." },
+      "explanation": {
+        "es": "Así como el cuerpo necesita alimento, el espíritu necesita momentos de silencio y oración. En este paso cuidamos nuestra relación con Dios, como cada uno lo entienda, y pedimos claridad para saber qué hacer y la fuerza para hacerlo.",
+        "en": "Just as the body needs food, the spirit needs moments of silence and prayer. In this step we tend our relationship with God, as each of us understands God, asking for clarity about what to do and the strength to do it."
+      },
+      "principle": { "es": "Conciencia espiritual", "en": "Spiritual awareness" },
+      "questions": [
+        { "es": "¿Cuándo y dónde puedo tener unos minutos de silencio cada día?", "en": "When and where can I have a few minutes of silence each day?" },
+        { "es": "¿Qué siento cuando oro o medito?", "en": "What do I feel when I pray or meditate?" },
+        { "es": "¿Qué claridad necesito pedir hoy?", "en": "What clarity do I need to ask for today?" }
+      ],
+      "related_topics": ["spirituality"],
+      "related_articles": ["cerebro-despierto", "llave-de-oro"],
+      "related_audio": ["meditation-bells", "meditation-calm"]
+    },
+    {
+      "number": 12,
+      "name": { "es": "Compartir lo recibido", "en": "Sharing what we've received" },
+      "summary": { "es": "Compartir con otros lo que recibimos y vivir estos principios en todas partes.", "en": "Passing on what we have received and living these principles everywhere." },
+      "explanation": {
+        "es": "Lo que recibimos gratis lo damos gratis. Compartir nuestra experiencia con quien llega con sed es una forma de mantener viva nuestra propia recuperación. El servicio no se limita al grupo: se vive en casa, en el trabajo y en cada relación.",
+        "en": "What we received freely, we give freely. Sharing our experience with someone who arrives thirsty is a way to keep our own recovery alive. Service isn't limited to the group: it's lived at home, at work, and in every relationship."
+      },
+      "principle": { "es": "Servicio", "en": "Service" },
+      "questions": [
+        { "es": "¿Qué he recibido del programa que puedo compartir?", "en": "What have I received from the program that I can share?" },
+        { "es": "¿Cómo puedo servir en el grupo este mes?", "en": "How can I serve the group this month?" },
+        { "es": "¿Dónde me cuesta vivir estos principios fuera de las juntas?", "en": "Where do I struggle to live these principles outside of meetings?" }
+      ],
+      "related_topics": ["community", "gratitude"],
+      "related_articles": ["elementos-recuperacion"],
+      "related_audio": []
+    }
+  ]
+}
