@@ -1,0 +1,57 @@
+{
+  "_note": "TEST AUDIO - generated tones and a computer voice. Replace with Tengo Sed recordings. 'url_es'/'url_en' can be a path inside the GitHub repo (audio/...) or a full https link; if one language is missing the other is played.",
+  "categories": [
+    { "id": "reflections", "title": { "es": "Reflexiones", "en": "Reflections" } },
+    { "id": "meditations", "title": { "es": "Meditaciones guiadas", "en": "Guided meditations" } },
+    { "id": "breathing", "title": { "es": "Ejercicios de respiración", "en": "Breathing exercises" } },
+    { "id": "situational", "title": { "es": "Para momentos difíciles", "en": "For difficult moments" } }
+  ],
+  "tracks": [
+    {
+      "id": "reflection-2026-10-04",
+      "category": "reflections",
+      "title": { "es": "Tengo sed", "en": "I thirst" },
+      "description": { "es": "Reflexión del día (prueba, en inglés)", "en": "Daily reflection (test)" },
+      "duration": "0:30",
+      "url_en": "audio/reflection-2026-10-04-en.wav",
+      "topic_tag": "spirituality",
+      "reflection_date": "2026-10-04"
+    },
+    {
+      "id": "meditation-bells",
+      "category": "meditations",
+      "title": { "es": "Meditación con campanas", "en": "Bell meditation" },
+      "description": { "es": "Respira con calma entre cada campana", "en": "Breathe calmly between each bell" },
+      "duration": "1:00",
+      "url_es": "audio/bell-meditation.wav",
+      "topic_tag": "acceptance"
+    },
+    {
+      "id": "meditation-calm",
+      "category": "meditations",
+      "title": { "es": "Calma interior", "en": "Inner calm" },
+      "description": { "es": "Un minuto para volver a ti", "en": "One minute to come back to yourself" },
+      "duration": "1:00",
+      "url_es": "audio/calm-drone.wav",
+      "topic_tag": "anxiety"
+    },
+    {
+      "id": "breathing-478",
+      "category": "breathing",
+      "title": { "es": "Respiración 4-7-8", "en": "4-7-8 breathing" },
+      "description": { "es": "Inhala con el tono que sube, sostén, exhala con el que baja", "en": "Inhale as the tone rises, hold, exhale as it falls" },
+      "duration": "0:57",
+      "url_es": "audio/breathing-478.wav",
+      "topic_tag": "anxiety"
+    },
+    {
+      "id": "situational-overthinking",
+      "category": "situational",
+      "title": { "es": "Cuando no puedo dejar de pensar", "en": "When I can't stop thinking" },
+      "description": { "es": "Un ancla para la mente acelerada", "en": "An anchor for a racing mind" },
+      "duration": "1:00",
+      "url_es": "audio/calm-drone.wav",
+      "topic_tag": "anxiety"
+    }
+  ]
+}
