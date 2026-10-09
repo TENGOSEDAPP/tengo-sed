@@ -1,5 +1,5 @@
 {
-  "_note": "TEST AUDIO - generated tones and a computer voice. Replace with Tengo Sed recordings. 'url_es'/'url_en' can be a path inside the GitHub repo (audio/...) or a full https link; if one language is missing the other is played.",
+  "_note": "Reflections = real Tengo Sed voice recordings (Spanish). Meditations / breathing / situational are still TEST tones - replace with real recordings. 'url_es'/'url_en' can be a path inside the GitHub repo (audio/...) or a full https link; if one language is missing the other is played. Tracks with a reflection_date stay hidden until that date.",
   "categories": [
     { "id": "reflections", "title": { "es": "Reflexiones", "en": "Reflections" } },
     { "id": "meditations", "title": { "es": "Meditaciones guiadas", "en": "Guided meditations" } },
@@ -8,14 +8,104 @@
   ],
   "tracks": [
     {
-      "id": "reflection-2026-10-04",
+      "id": "reflection-2026-10-15",
       "category": "reflections",
-      "title": { "es": "Tengo sed", "en": "I thirst" },
-      "description": { "es": "Reflexión del día (prueba, en inglés)", "en": "Daily reflection (test)" },
-      "duration": "0:30",
-      "url_en": "audio/reflection-2026-10-04-en.wav",
-      "topic_tag": "spirituality",
-      "reflection_date": "2026-10-04"
+      "title": { "es": "La compasión empieza por mí mismo", "en": "Compassion begins with myself" },
+      "description": { "es": "Reflexión del 15 de octubre · en español", "en": "Reflection for October 15 · in Spanish" },
+      "duration": "4:32",
+      "url_es": "audio/reflection-2026-10-15-es.m4a",
+      "topic_tag": "self_compassion",
+      "reflection_date": "2026-10-15"
+    },
+    {
+      "id": "reflection-2026-10-14",
+      "category": "reflections",
+      "title": { "es": "Los límites también son amor", "en": "Boundaries are love too" },
+      "description": { "es": "Reflexión del 14 de octubre · en español", "en": "Reflection for October 14 · in Spanish" },
+      "duration": "4:50",
+      "url_es": "audio/reflection-2026-10-14-es.m4a",
+      "topic_tag": "boundaries",
+      "reflection_date": "2026-10-14"
+    },
+    {
+      "id": "reflection-2026-10-13",
+      "category": "reflections",
+      "title": { "es": "La humildad me abre al crecimiento", "en": "Humility opens me to growth" },
+      "description": { "es": "Reflexión del 13 de octubre · en español", "en": "Reflection for October 13 · in Spanish" },
+      "duration": "4:27",
+      "url_es": "audio/reflection-2026-10-13-es.m4a",
+      "topic_tag": "humility",
+      "reflection_date": "2026-10-13"
+    },
+    {
+      "id": "reflection-2026-10-12",
+      "category": "reflections",
+      "title": { "es": "Vivir el presente, un día a la vez", "en": "Living in the present, one day at a time" },
+      "description": { "es": "Reflexión del 12 de octubre · en español", "en": "Reflection for October 12 · in Spanish" },
+      "duration": "4:07",
+      "url_es": "audio/reflection-2026-10-12-es.m4a",
+      "topic_tag": "acceptance",
+      "reflection_date": "2026-10-12"
+    },
+    {
+      "id": "reflection-2026-10-11",
+      "category": "reflections",
+      "title": { "es": "El perdón me libera", "en": "Forgiveness sets me free" },
+      "description": { "es": "Reflexión del 11 de octubre · en español", "en": "Reflection for October 11 · in Spanish" },
+      "duration": "4:30",
+      "url_es": "audio/reflection-2026-10-11-es.m4a",
+      "topic_tag": "forgiveness",
+      "reflection_date": "2026-10-11"
+    },
+    {
+      "id": "reflection-2026-10-10",
+      "category": "reflections",
+      "title": { "es": "La gratitud cambia mi perspectiva", "en": "Gratitude changes my perspective" },
+      "description": { "es": "Reflexión del 10 de octubre · en español", "en": "Reflection for October 10 · in Spanish" },
+      "duration": "4:35",
+      "url_es": "audio/reflection-2026-10-10-es.m4a",
+      "topic_tag": "gratitude",
+      "reflection_date": "2026-10-10"
+    },
+    {
+      "id": "reflection-2026-10-09",
+      "category": "reflections",
+      "title": { "es": "Mi historia también importa", "en": "My story matters too" },
+      "description": { "es": "Reflexión del 9 de octubre · en español", "en": "Reflection for October 9 · in Spanish" },
+      "duration": "4:35",
+      "url_es": "audio/reflection-2026-10-09-es.m4a",
+      "topic_tag": "trauma",
+      "reflection_date": "2026-10-09"
+    },
+    {
+      "id": "reflection-2026-10-08",
+      "category": "reflections",
+      "title": { "es": "Lo que no puedo controlar", "en": "What I can't control" },
+      "description": { "es": "Reflexión del 8 de octubre · en español", "en": "Reflection for October 8 · in Spanish" },
+      "duration": "4:28",
+      "url_es": "audio/reflection-2026-10-08-es.m4a",
+      "topic_tag": "acceptance",
+      "reflection_date": "2026-10-08"
+    },
+    {
+      "id": "reflection-2026-10-07",
+      "category": "reflections",
+      "title": { "es": "Una pausa puede cambiarlo todo", "en": "A pause can change everything" },
+      "description": { "es": "Reflexión del 7 de octubre · en español", "en": "Reflection for October 7 · in Spanish" },
+      "duration": "4:24",
+      "url_es": "audio/reflection-2026-10-07-es.m4a",
+      "topic_tag": "anxiety",
+      "reflection_date": "2026-10-07"
+    },
+    {
+      "id": "reflection-2026-10-06",
+      "category": "reflections",
+      "title": { "es": "Cuidemos de nosotros mismos", "en": "Let's take care of ourselves" },
+      "description": { "es": "Reflexión del 6 de octubre · en español", "en": "Reflection for October 6 · in Spanish" },
+      "duration": "4:20",
+      "url_es": "audio/reflection-2026-10-06-es.m4a",
+      "topic_tag": "self_care",
+      "reflection_date": "2026-10-06"
     },
     {
       "id": "meditation-bells",

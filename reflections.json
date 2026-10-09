@@ -56,85 +56,570 @@
       "text_en": "Acceptance is not giving up or approving of what hurt us. It's to stop fighting reality so we can begin working with it. While we argue with what already happened, our energy stays trapped in the past. When we accept, that energy comes back to us for today.\n\nToday I practice accepting one thing I cannot change.",
       "topic_tag": "acceptance"
     },
-    {
+  {
       "date": "2026-10-06",
-      "subject_es": "Un día a la vez",
-      "subject_en": "One day at a time",
-      "text_es": "La mente quiere resolver la semana, el año, la vida entera. Pero nadie nos pide cargar con todo eso hoy. Solo tenemos estas veinticuatro horas, y en ellas podemos hacer lo que nos toca. Lo demás llegará cuando llegue, y tendremos la fuerza para ese día cuando ese día venga.\n\nHoy solo me ocupo de hoy.",
-      "text_en": "The mind wants to solve the week, the year, our whole life. But no one is asking us to carry all of that today. We only have these twenty-four hours, and in them we can do our part. The rest will come when it comes, and we will have strength for that day when that day arrives.\n\nToday I only take care of today.",
-      "topic_tag": "anxiety"
+      "subject_es": "Cuidemos de nosotros mismos",
+      "subject_en": "Let's take care of ourselves",
+      "text_es": "Durante mucho tiempo, quizá puse las necesidades de otros por encima de las mías. En la recuperación aprendemos que cuidarnos no es egoísmo: es responsabilidad.",
+      "text_en": "For a long time, I may have put other people's needs above my own. In recovery we learn that taking care of ourselves isn't selfish: it's responsibility.",
+      "topic_tag": "self_care",
+      "subtitle": { "es": "No puedo dar lo que no tengo", "en": "I can't give what I don't have" },
+      "tagline": { "es": "Mi bienestar también importa", "en": "My well-being matters too" },
+      "sections": [
+        {
+          "heading": { "es": "Cuidarme es parte de la recuperación", "en": "Caring for myself is part of recovery" },
+          "body": {
+            "es": "Durante mucho tiempo, quizá puse las necesidades de otros por encima de las mías. Creí que debía ser fuerte todo el tiempo, estar disponible, resolver, complacer y no fallar. Puede que incluso me sintiera culpable si pensaba en mí.\n\nEn la recuperación aprendemos que cuidarnos no es egoísmo. Es responsabilidad. Es reconocer que mi bienestar físico, emocional, mental y espiritual es necesario para poder vivir una vida más sana y también para poder estar realmente disponible para los demás.",
+            "en": "For a long time, I may have put other people's needs above my own. I believed I had to be strong all the time, always available, solving, pleasing, and never failing. I may even have felt guilty for thinking about myself.\n\nIn recovery we learn that taking care of ourselves isn't selfish. It's responsibility. It means recognizing that my physical, emotional, mental, and spiritual well-being is necessary to live a healthier life, and also to be truly available for others."
+          }
+        },
+        {
+          "heading": { "es": "Pequeñas acciones, grandes beneficios", "en": "Small actions, big benefits" },
+          "body": {
+            "es": "Cuidarme no siempre requiere grandes cambios. Muchas veces son pequeñas acciones diarias que, con el tiempo, tienen un gran impacto:\n• Dormir lo suficiente\n• Alimentarme bien\n• Mover mi cuerpo\n• Tomar agua\n• Respirar profundamente\n• Dedicar tiempo al silencio, la oración o la meditación\n• Pedir y aceptar ayuda\n• Poner límites\n• Hacer algo que me dé alegría",
+            "en": "Taking care of myself doesn't always require big changes. Often it's small daily actions that, over time, have a big impact:\n• Getting enough sleep\n• Eating well\n• Moving my body\n• Drinking water\n• Breathing deeply\n• Making time for silence, prayer, or meditation\n• Asking for and accepting help\n• Setting boundaries\n• Doing something that brings me joy"
+          }
+        },
+        {
+          "heading": { "es": "La neurociencia nos respalda", "en": "Neuroscience backs us up" },
+          "body": {
+            "es": "Cuando nos cuidamos, regulamos mejor nuestro sistema nervioso. Disminuye la activación de la amígdala (miedo y estrés) y fortalecemos la corteza prefrontal, que nos ayuda a tomar mejores decisiones, tener mayor claridad y responder de manera más serena.\n\nLa neuroplasticidad nos recuerda que, al repetir estas prácticas de autocuidado, creamos nuevas conexiones en nuestro cerebro, y poco a poco se vuelve más natural sentirnos bien, tranquilos y con más energía.",
+            "en": "When we take care of ourselves, we regulate our nervous system better. Activation of the amygdala (fear and stress) decreases, and we strengthen the prefrontal cortex, which helps us make better decisions, think more clearly, and respond more calmly.\n\nNeuroplasticity reminds us that by repeating these self-care practices, we create new connections in our brain, and little by little it becomes more natural to feel well, calm, and more energized."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Mi bienestar importa.", "en": "My well-being matters." }, "text": { "es": "Cuidarme me permite ser una mejor versión de mí y estar presente para los demás.", "en": "Caring for myself lets me be a better version of me and be present for others." } },
+        { "title": { "es": "Puedo poner límites.", "en": "I can set boundaries." }, "text": { "es": "Decir “no” también es una forma de amor y de autocuidado.", "en": "Saying “no” is also a form of love and self-care." } },
+        { "title": { "es": "Escucho a mi cuerpo.", "en": "I listen to my body." }, "text": { "es": "El cansancio, la irritabilidad y la falta de energía son señales que merecen mi atención.", "en": "Tiredness, irritability, and lack of energy are signals that deserve my attention." } },
+        { "title": { "es": "La consistencia crea cambio.", "en": "Consistency creates change." }, "text": { "es": "Pequeñas acciones repetidas generan grandes beneficios.", "en": "Small repeated actions bring big benefits." } },
+        { "title": { "es": "No tengo que hacerlo solo.", "en": "I don't have to do it alone." }, "text": { "es": "Puedo pedir y aceptar apoyo.", "en": "I can ask for and accept support." } },
+        { "title": { "es": "Confío en Dios.", "en": "I trust in God." }, "text": { "es": "Él me da la fuerza para cuidar de mí y para vivir en equilibrio.", "en": "He gives me the strength to care for myself and to live in balance." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y pregúntate:", "en": "Take a few minutes and ask yourself:" },
+      "questions": [
+        { "es": "¿Qué necesito hoy para sentirme mejor?", "en": "What do I need today to feel better?" },
+        { "es": "¿Estoy escuchando las señales de mi cuerpo y mis emociones?", "en": "Am I listening to the signals of my body and my emotions?" },
+        { "es": "¿Hay algo que puedo decir “no” para cuidar mi paz?", "en": "Is there something I can say “no” to in order to protect my peace?" },
+        { "es": "¿Qué pequeña acción de autocuidado puedo hacer hoy?", "en": "What small act of self-care can I do today?" },
+        { "es": "¿A quién puedo pedir apoyo si lo necesito?", "en": "Whom can I ask for support if I need it?" }
+      ],
+      "quote": { "es": "Cuidar de ti mismo no es egoísta, es esencial. No puedes servir desde el vacío.", "en": "Taking care of yourself isn't selfish, it's essential. You can't serve from an empty place." },
+      "quote_author": { "es": "Inspirado en Melody Beattie", "en": "Inspired by Melody Beattie" },
+      "prayer": {
+        "es": "Dios, ayúdame a cuidar de mí con la misma compasión con la que quiero cuidar a los demás. Dame la sabiduría para reconocer mis necesidades, la fortaleza para poner límites y la disciplina para hacer lo que me ayuda a estar bien. Que recuerde que mi bienestar también importa, porque solo así puedo vivir plenamente y ser un instrumento de Tu amor. Amén.",
+        "en": "God, help me care for myself with the same compassion with which I want to care for others. Give me the wisdom to recognize my needs, the strength to set boundaries, and the discipline to do what helps me be well. May I remember that my well-being matters too, because only then can I live fully and be an instrument of Your love. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-07",
-      "subject_es": "El peso del resentimiento",
-      "subject_en": "The weight of resentment",
-      "text_es": "Cargamos el resentimiento creyendo que castiga a quien nos hirió, pero el peso lo llevamos nosotros. Cada vez que repasamos la ofensa, la volvemos a vivir. No tenemos que olvidar ni justificar; solo empezar a soltar, aunque sea un poco, para recuperar la paz que nos pertenece.\n\nHoy escribo el nombre de un resentimiento y lo entrego.",
-      "text_en": "We carry resentment believing it punishes the one who hurt us, but we are the ones carrying the weight. Every time we replay the offense, we live it again. We don't have to forget or excuse it; only begin to let go, even a little, to reclaim the peace that belongs to us.\n\nToday I write down one resentment and hand it over.",
-      "topic_tag": "resentment"
+      "subject_es": "Una pausa puede cambiarlo todo",
+      "subject_en": "A pause can change everything",
+      "text_es": "Nuestro primer impulso suele ser reaccionar automáticamente. Sin embargo, una pausa, aunque sea de unos segundos, puede hacer una gran diferencia.",
+      "text_en": "Our first impulse is usually to react automatically. However, a pause, even of a few seconds, can make a big difference.",
+      "topic_tag": "anxiety",
+      "subtitle": { "es": "Entre el estímulo y la respuesta hay libertad", "en": "Between stimulus and response there is freedom" },
+      "tagline": { "es": "Elegir con conciencia es parte de la recuperación", "en": "Choosing consciously is part of recovery" },
+      "sections": [
+        {
+          "heading": { "es": "El poder de una pausa", "en": "The power of a pause" },
+          "body": {
+            "es": "En la vida diaria enfrentamos muchas situaciones que pueden activar viejas reacciones: una crítica, un mensaje inesperado, un conflicto, un retraso, una frustración o una emoción fuerte.\n\nNuestro primer impulso suele ser reaccionar automáticamente. Sin embargo, una pausa, aunque sea de unos segundos, puede hacer una gran diferencia.\n\nLa pausa nos da espacio para respirar, observar lo que estamos sintiendo y elegir una respuesta más consciente, en lugar de repetir un patrón antiguo.",
+            "en": "In daily life we face many situations that can trigger old reactions: a criticism, an unexpected message, a conflict, a delay, a frustration, or a strong emotion.\n\nOur first impulse is usually to react automatically. However, a pause, even of a few seconds, can make a big difference.\n\nA pause gives us room to breathe, notice what we're feeling, and choose a more conscious response instead of repeating an old pattern."
+          }
+        },
+        {
+          "heading": { "es": "Qué nos dice la neurociencia", "en": "What neuroscience tells us" },
+          "body": {
+            "es": "Cuando algo nos activa, la amígdala —la parte del cerebro que detecta amenazas— puede tomar el control y generar una reacción rápida de defensa, enojo o miedo.\n\nSi hacemos una pausa y respiramos, activamos la corteza prefrontal, la parte del cerebro que nos ayuda a pensar con claridad, evaluar la situación y elegir una respuesta más equilibrada.\n\nCon la práctica, esas pausas se vuelven más naturales y fortalecemos nuevas conexiones neuronales. La neuroplasticidad nos recuerda que podemos entrenar a nuestro cerebro para responder de una manera más serena y saludable.",
+            "en": "When something triggers us, the amygdala —the part of the brain that detects threats— can take control and produce a quick reaction of defense, anger, or fear.\n\nIf we pause and breathe, we activate the prefrontal cortex, the part of the brain that helps us think clearly, assess the situation, and choose a more balanced response.\n\nWith practice, these pauses become more natural and we strengthen new neural connections. Neuroplasticity reminds us that we can train our brain to respond in a calmer, healthier way."
+          }
+        },
+        {
+          "heading": { "es": "Una herramienta para la vida", "en": "A tool for life" },
+          "body": {
+            "es": "La pausa no significa evitar, negar o reprimir lo que sentimos. Significa darnos un momento para estar presentes, en lugar de actuar desde la impulsividad.\n\nCon el tiempo, la pausa se convierte en un hábito. Y ese hábito puede transformar nuestras relaciones, nuestras decisiones y nuestra calidad de vida.",
+            "en": "Pausing doesn't mean avoiding, denying, or suppressing what we feel. It means giving ourselves a moment to be present instead of acting on impulse.\n\nOver time, the pause becomes a habit. And that habit can transform our relationships, our decisions, and our quality of life."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Reconozco mis señales:", "en": "I recognize my signals:" }, "text": { "es": "noto cuando me siento activado.", "en": "I notice when I feel triggered." } },
+        { "title": { "es": "Hago una pausa:", "en": "I pause:" }, "text": { "es": "respiro, me detengo y me doy tiempo.", "en": "I breathe, stop, and give myself time." } },
+        { "title": { "es": "Observo lo que siento:", "en": "I notice what I feel:" }, "text": { "es": "nombro la emoción sin juzgarla.", "en": "I name the emotion without judging it." } },
+        { "title": { "es": "Elijo mi respuesta:", "en": "I choose my response:" }, "text": { "es": "puedo actuar con calma y claridad.", "en": "I can act with calm and clarity." } },
+        { "title": { "es": "Practico todos los días:", "en": "I practice every day:" }, "text": { "es": "cada pausa fortalece nuevas conexiones en mi cerebro.", "en": "each pause strengthens new connections in my brain." } },
+        { "title": { "es": "Confío en Dios:", "en": "I trust in God:" }, "text": { "es": "me da la sabiduría para responder en lugar de reaccionar.", "en": "He gives me the wisdom to respond instead of react." } }
+      ],
+      "practice_intro": { "es": "La próxima vez que te sientas activado, practica estos tres pasos:", "en": "The next time you feel triggered, practice these three steps:" },
+      "questions": [
+        { "es": "Detente – aunque sea por unos segundos.", "en": "Stop – even if only for a few seconds." },
+        { "es": "Respira – inhala profundamente y exhala despacio.", "en": "Breathe – inhale deeply and exhale slowly." },
+        { "es": "Elige – pregúntate: “¿Qué respuesta me acerca a la paz?”", "en": "Choose – ask yourself: “Which response brings me closer to peace?”" }
+      ],
+      "quote": { "es": "Entre el estímulo y la respuesta hay un espacio. En ese espacio está nuestro poder para elegir nuestra respuesta. Y en nuestra respuesta está nuestro crecimiento y nuestra libertad.", "en": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." },
+      "quote_author": { "es": "Viktor Frankl", "en": "Viktor Frankl" },
+      "prayer": {
+        "es": "Dios, ayúdame a hacer una pausa cuando sienta que estoy a punto de reaccionar impulsivamente. Dame la serenidad para respirar, la claridad para ver la situación con más calma, y la sabiduría para elegir una respuesta que me acerque a la paz, la honestidad y el amor. Que pueda recordar que una pausa, por pequeña que sea, puede cambiarlo todo. Amén.",
+        "en": "God, help me pause when I feel I'm about to react impulsively. Give me the serenity to breathe, the clarity to see the situation more calmly, and the wisdom to choose a response that brings me closer to peace, honesty, and love. May I remember that a pause, however small, can change everything. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-08",
-      "subject_es": "Límites con amor",
-      "subject_en": "Boundaries with love",
-      "text_es": "Durante mucho tiempo creímos que amar era decir que sí a todo. Pero un amor que nos vacía no sana a nadie. Poner un límite es decir: \"Te quiero, y también me quiero a mí\". Los límites claros protegen nuestras relaciones en lugar de romperlas.\n\nHoy digo un \"no\" amable donde antes decía un \"sí\" que me dolía.",
-      "text_en": "For a long time we believed that love meant saying yes to everything. But a love that empties us heals no one. Setting a boundary says: \"I love you, and I love myself too.\" Clear boundaries protect our relationships instead of breaking them.\n\nToday I say a kind \"no\" where I used to say a \"yes\" that hurt.",
-      "topic_tag": "boundaries"
+      "subject_es": "Lo que no puedo controlar",
+      "subject_en": "What I can't control",
+      "text_es": "En la recuperación aprendemos a distinguir entre lo que sí está en nuestras manos y lo que no. Soltar no es rendirse: es hacer mi parte y confiar.",
+      "text_en": "In recovery we learn to tell the difference between what is in our hands and what isn't. Letting go isn't giving up: it's doing my part and trusting.",
+      "topic_tag": "acceptance",
+      "subtitle": { "es": "También lo puedo entregar", "en": "I can also hand it over" },
+      "tagline": { "es": "Soltar me devuelve la paz", "en": "Letting go gives me back my peace" },
+      "sections": [
+        {
+          "heading": { "es": "La ilusión del control", "en": "The illusion of control" },
+          "body": {
+            "es": "Muchas veces creemos que, si hacemos suficiente esfuerzo, podemos controlar lo que sucede: lo que piensan los demás, lo que sienten, lo que deciden, e incluso cómo se desarrollará el futuro.\n\nCuando la vida no ocurre como esperamos, podemos sentir frustración, ansiedad, enojo o miedo. Intentamos controlar, corregir, anticipar o resolver a toda costa, y terminamos agotados.",
+            "en": "We often believe that if we try hard enough, we can control what happens: what others think, what they feel, what they decide, and even how the future will unfold.\n\nWhen life doesn't go as we expect, we can feel frustration, anxiety, anger, or fear. We try to control, correct, anticipate, or fix things at all costs, and we end up exhausted."
+          }
+        },
+        {
+          "heading": { "es": "Hay cosas que no dependen de mí", "en": "Some things don't depend on me" },
+          "body": {
+            "es": "En la recuperación aprendemos a distinguir entre lo que sí está en nuestras manos y lo que no.\n\nNo puedo controlar:\n• Lo que otros piensan, sienten o hacen.\n• Las decisiones de otras personas.\n• El pasado.\n• El futuro.\n• Las circunstancias que no puedo cambiar.\n• El tiempo de los demás.\n\nIntentar controlar lo que no depende de mí solo me aleja de la paz y me mantiene en un ciclo de estrés y frustración.",
+            "en": "In recovery we learn to tell the difference between what is in our hands and what isn't.\n\nI can't control:\n• What others think, feel, or do.\n• Other people's decisions.\n• The past.\n• The future.\n• Circumstances I can't change.\n• Other people's timing.\n\nTrying to control what doesn't depend on me only pulls me away from peace and keeps me in a cycle of stress and frustration."
+          }
+        },
+        {
+          "heading": { "es": "Soltar no es rendirse", "en": "Letting go isn't giving up" },
+          "body": {
+            "es": "Soltar no significa dejar de importar, dejar de preocuparse o ser indiferente. Significa reconocer los límites de mi control, hacer mi parte y confiar.\n\nPuedo hacer todo lo que esté en mis manos: actuar con honestidad, poner límites, cuidar de mí y tomar decisiones responsables. Después, puedo entregar el resultado a Dios y aceptar que hay cosas que simplemente no me corresponden.\n\nSoltar me da libertad para enfocarme en lo que sí puedo hacer, en lugar de desgastar mi energía en lo que no puedo cambiar.",
+            "en": "Letting go doesn't mean no longer caring, no longer worrying, or becoming indifferent. It means recognizing the limits of my control, doing my part, and trusting.\n\nI can do everything that's in my hands: act with honesty, set boundaries, take care of myself, and make responsible decisions. Then I can hand the outcome over to God and accept that some things simply aren't mine to carry.\n\nLetting go frees me to focus on what I can do, instead of wearing out my energy on what I can't change."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Distingo lo que puedo controlar de lo que no.", "en": "I distinguish what I can control from what I can't." }, "text": { "es": "Me enfoco en mi parte.", "en": "I focus on my part." } },
+        { "title": { "es": "Hago mi parte.", "en": "I do my part." }, "text": { "es": "Actúo con responsabilidad, honestidad y amor.", "en": "I act with responsibility, honesty, and love." } },
+        { "title": { "es": "Entrego el resto.", "en": "I hand over the rest." }, "text": { "es": "Confío en Dios y en el proceso de la vida.", "en": "I trust God and the process of life." } },
+        { "title": { "es": "Suelto la necesidad de controlar.", "en": "I let go of the need to control." }, "text": { "es": "La vida también puede ser buena aunque no ocurra como yo espero.", "en": "Life can still be good even when it doesn't go as I expect." } },
+        { "title": { "es": "Practico la aceptación.", "en": "I practice acceptance." }, "text": { "es": "Acepto lo que no puedo cambiar y libero mi energía.", "en": "I accept what I can't change and free my energy." } },
+        { "title": { "es": "Encuentro paz en la confianza.", "en": "I find peace in trust." }, "text": { "es": "No tengo que cargar con todo.", "en": "I don't have to carry everything." } }
+      ],
+      "practice_intro": { "es": "Cuando sientas ansiedad o frustración, pregúntate:", "en": "When you feel anxious or frustrated, ask yourself:" },
+      "questions": [
+        { "es": "¿Qué está realmente en mis manos?", "en": "What is really in my hands?" },
+        { "es": "¿Qué está fuera de mi control?", "en": "What is outside my control?" },
+        { "es": "¿Puedo hacer algo más o ya hice mi parte?", "en": "Can I do something more, or have I already done my part?" },
+        { "es": "¿Qué necesito soltar hoy?", "en": "What do I need to let go of today?" },
+        { "es": "¿Puedo confiar en que, aunque no sea como yo espero, aún puede ser para bien?", "en": "Can I trust that, even if it isn't what I expect, it may still turn out for the good?" }
+      ],
+      "quote": { "es": "La paz comienza cuando aceptas que no puedes controlar todo, pero sí puedes confiar en que hay un propósito mayor para lo que ocurre.", "en": "Peace begins when you accept that you can't control everything, but you can trust that there is a greater purpose in what happens." },
+      "quote_author": { "es": "Inspirado en Emmet Fox", "en": "Inspired by Emmet Fox" },
+      "prayer": {
+        "es": "Dios, dame la serenidad para aceptar lo que no puedo cambiar, la fortaleza para hacer mi parte y la sabiduría para confiar en Ti. Ayúdame a soltar la necesidad de controlar y a vivir con más paz y confianza. Que pueda recordar que, aunque la vida no siempre ocurra como yo espero, Tú sigues presente y puedes hacer algo bueno incluso en lo que no entiendo. Amén.",
+        "en": "God, grant me the serenity to accept what I cannot change, the strength to do my part, and the wisdom to trust in You. Help me let go of the need to control and live with more peace and trust. May I remember that even when life doesn't go as I expect, You are still present and can bring something good even out of what I don't understand. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-09",
-      "subject_es": "Soltar el control",
-      "subject_en": "Letting go of control",
-      "text_es": "Intentamos controlar a otros para sentirnos seguros: sus decisiones, sus emociones, sus caminos. Pero cada persona tiene su propio camino y su propio Poder Superior. Cuando dejamos de vivir la vida de los demás, por fin tenemos tiempo para vivir la nuestra.\n\nHoy me pregunto: ¿a quién estoy tratando de cambiar, y qué pasaría si lo suelto?",
-      "text_en": "We try to control others to feel safe: their choices, their feelings, their paths. But each person has their own path and their own Higher Power. When we stop living other people's lives, we finally have time to live our own.\n\nToday I ask: who am I trying to change, and what would happen if I let go?",
-      "topic_tag": "codependency"
+      "subject_es": "Mi historia también importa",
+      "subject_en": "My story matters too",
+      "text_es": "Nadie llega a la recuperación sin una historia. Comprender nuestra historia puede ser el primer paso para liberarnos de la culpa y abrir la puerta al cambio.",
+      "text_en": "No one arrives in recovery without a story. Understanding our story can be the first step toward freeing ourselves from guilt and opening the door to change.",
+      "topic_tag": "trauma",
+      "subtitle": { "es": "Puedo comprender, sanar y seguir adelante", "en": "I can understand, heal, and move forward" },
+      "tagline": { "es": "Lo que me pasó explica, pero no tiene que seguir dirigiendo mi vida", "en": "What happened to me explains things, but it doesn't have to keep running my life" },
+      "sections": [
+        {
+          "heading": { "es": "Todo comportamiento tiene una historia", "en": "Every behavior has a story" },
+          "body": {
+            "es": "Nadie llega a la recuperación sin una historia. Todos hemos vivido experiencias que nos marcaron: dolores, pérdidas, rechazos, miedos, abusos, ambientes difíciles o carencias emocionales.\n\nNuestra historia no justifica todo lo que hemos hecho, pero nos ayuda a comprender por qué llegamos a desarrollar ciertos patrones y formas de reaccionar.\n\nComprender nuestra historia puede ser el primer paso para liberarnos de la culpa y abrir la puerta al cambio.",
+            "en": "No one arrives in recovery without a story. We've all lived through experiences that marked us: pain, losses, rejection, fears, abuse, difficult environments, or emotional neglect.\n\nOur story doesn't justify everything we've done, but it helps us understand why we developed certain patterns and ways of reacting.\n\nUnderstanding our story can be the first step toward freeing ourselves from guilt and opening the door to change."
+          }
+        },
+        {
+          "heading": { "es": "De la supervivencia a la recuperación", "en": "From survival to recovery" },
+          "body": {
+            "es": "Muchas de nuestras reacciones fueron estrategias de supervivencia. En algún momento nos ayudaron a sentirnos seguros, aceptados o en control.\n\nSin embargo, lo que fue útil para sobrevivir puede volverse dañino cuando ya no lo necesitamos.\n\nEn recuperación aprendemos a honrar el valor de esas estrategias, a agradecer lo que nos permitieron, y a elegir nuevas formas de vivir que hoy sí nos acercan a la paz y a una vida más plena.",
+            "en": "Many of our reactions were survival strategies. At some point they helped us feel safe, accepted, or in control.\n\nHowever, what was useful for surviving can become harmful when we no longer need it.\n\nIn recovery we learn to honor the value of those strategies, to be grateful for what they allowed us, and to choose new ways of living that bring us closer to peace and a fuller life today."
+          }
+        },
+        {
+          "heading": { "es": "Puedo reescribir mi historia", "en": "I can rewrite my story" },
+          "body": {
+            "es": "Aunque no puedo cambiar lo que me pasó, sí puedo cambiar lo que hago con ello.\n\nLa neurociencia nos recuerda que nuestro cerebro conserva la capacidad de crear nuevas conexiones a lo largo de la vida. Con la práctica, podemos desarrollar nuevas maneras de pensar, sentir y actuar.\n\nMi pasado es parte de mi historia, pero no tiene que ser el final de ella. Hoy puedo elegir escribir nuevos capítulos.",
+            "en": "Although I can't change what happened to me, I can change what I do with it.\n\nNeuroscience reminds us that our brain keeps the ability to create new connections throughout life. With practice, we can develop new ways of thinking, feeling, and acting.\n\nMy past is part of my story, but it doesn't have to be the end of it. Today I can choose to write new chapters."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Mi historia me ha dado fortaleza.", "en": "My story has given me strength." }, "text": { "es": "Reconozco lo que he superado.", "en": "I recognize what I have overcome." } },
+        { "title": { "es": "Comprender no es justificar.", "en": "Understanding isn't justifying." }, "text": { "es": "Me ayuda a sanar y a tomar responsabilidad.", "en": "It helps me heal and take responsibility." } },
+        { "title": { "es": "Agradezco las estrategias que me ayudaron a sobrevivir,", "en": "I'm grateful for the strategies that helped me survive," }, "text": { "es": "y elijo nuevas herramientas para vivir.", "en": "and I choose new tools for living." } },
+        { "title": { "es": "Puedo soltar la culpa.", "en": "I can let go of guilt." }, "text": { "es": "Hago lo mejor que puedo con lo que sé hoy.", "en": "I do the best I can with what I know today." } },
+        { "title": { "es": "Practico la compasión conmigo mismo.", "en": "I practice compassion with myself." }, "text": { "es": "Merezco la misma comprensión que ofrezco a otros.", "en": "I deserve the same understanding I offer others." } },
+        { "title": { "es": "Confío en que siempre hay una posibilidad de un nuevo comienzo.", "en": "I trust there is always the possibility of a new beginning." }, "text": { "es": "", "en": "" } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿Qué parte de mi historia sigue doliendo?", "en": "What part of my story still hurts?" },
+        { "es": "¿Qué aprendí de esas experiencias?", "en": "What did I learn from those experiences?" },
+        { "es": "¿Qué patrones quiero dejar atrás?", "en": "What patterns do I want to leave behind?" },
+        { "es": "¿Qué nuevas respuestas puedo practicar hoy?", "en": "What new responses can I practice today?" },
+        { "es": "¿Cómo puedo tratarme con más compasión en este proceso?", "en": "How can I treat myself with more compassion in this process?" }
+      ],
+      "quote": { "es": "Tu pasado explica muchas cosas, pero no define tu futuro. Eres más grande que lo que te pasó, y tu historia aún está en construcción.", "en": "Your past explains many things, but it doesn't define your future. You are bigger than what happened to you, and your story is still being written." },
+      "quote_author": { "es": "Inspirado en Bessel van der Kolk", "en": "Inspired by Bessel van der Kolk" },
+      "prayer": {
+        "es": "Dios, gracias por mi historia, incluso por las partes que han sido difíciles. Ayúdame a comprender lo que me pasó, a soltar la culpa y a tomar la responsabilidad que me corresponde. Dame la fortaleza para dejar atrás los patrones que ya no me sirven, y la sabiduría para construir una vida nueva, basada en la paz, la honestidad y el amor. Que pueda tratarme con compasión y confiar en que siempre es posible un nuevo comienzo. Amén.",
+        "en": "God, thank You for my story, even for the parts that have been difficult. Help me understand what happened to me, let go of guilt, and take the responsibility that is mine. Give me the strength to leave behind the patterns that no longer serve me, and the wisdom to build a new life based on peace, honesty, and love. May I treat myself with compassion and trust that a new beginning is always possible. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-10",
-      "subject_es": "La culpa que sana",
-      "subject_en": "Guilt that heals",
-      "text_es": "Hay una culpa que nos aplasta y otra que nos guía. La primera repite \"soy malo\"; la segunda dice \"hice algo que puedo reparar\". Podemos escuchar la voz que nos invita a enmendar sin quedarnos atrapados en la que solo nos castiga.\n\nHoy hago una pequeña reparación y me trato con la misma compasión que le daría a un amigo.",
-      "text_en": "There is a guilt that crushes us and a guilt that guides us. The first repeats \"I am bad\"; the second says \"I did something I can repair.\" We can listen to the voice that invites us to make amends without getting stuck in the one that only punishes.\n\nToday I make one small amend and treat myself with the compassion I'd give a friend.",
-      "topic_tag": "guilt"
+      "subject_es": "La gratitud cambia mi perspectiva",
+      "subject_en": "Gratitude changes my perspective",
+      "text_es": "La gratitud nos ayuda a equilibrar la tendencia de la mente a enfocarse en lo que falta. No se trata de ignorar las dificultades, sino de reconocer también las bendiciones que nos acompañan.",
+      "text_en": "Gratitude helps balance the mind's tendency to focus on what's missing. It isn't about ignoring difficulties, but about also recognizing the blessings that are with us.",
+      "topic_tag": "gratitude",
+      "subtitle": { "es": "Puedo ver lo bueno, aunque la vida siga siendo un reto", "en": "I can see the good, even when life is still a challenge" },
+      "tagline": { "es": "La gratitud me ayuda a enfocarme en lo que sí tengo", "en": "Gratitude helps me focus on what I do have" },
+      "sections": [
+        {
+          "heading": { "es": "Entrenar la mente para ver lo bueno", "en": "Training the mind to see the good" },
+          "body": {
+            "es": "Nuestro cerebro tiene una tendencia natural a enfocarse en lo que falta, en lo que puede salir mal o en lo que nos preocupa. Esta tendencia pudo ser útil en el pasado para mantenernos seguros, pero hoy puede hacernos perder de vista todo lo bueno que también está presente en nuestra vida.\n\nLa gratitud nos ayuda a equilibrar esta tendencia. No se trata de ignorar las dificultades, sino de reconocer también las bendiciones que nos acompañan, incluso en medio de los retos.",
+            "en": "Our brain has a natural tendency to focus on what's missing, on what could go wrong, or on what worries us. This tendency may have helped keep us safe in the past, but today it can make us lose sight of all the good that is also present in our lives.\n\nGratitude helps us balance this tendency. It isn't about ignoring difficulties, but about also recognizing the blessings that accompany us, even in the middle of challenges."
+          }
+        },
+        {
+          "heading": { "es": "La neurociencia lo confirma", "en": "Neuroscience confirms it" },
+          "body": {
+            "es": "Estudios muestran que practicar la gratitud de manera constante puede:\n• Disminuir la ansiedad y el estrés\n• Mejorar nuestro estado de ánimo\n• Fortalecer el sistema inmunológico\n• Aumentar la resiliencia\n• Crear nuevas conexiones neuronales\n• Ayudarnos a ver la vida con mayor claridad y esperanza\n\nLa gratitud no cambia lo que nos ocurrió, pero sí puede cambiar la manera en que lo vivimos.",
+            "en": "Studies show that practicing gratitude consistently can:\n• Reduce anxiety and stress\n• Improve our mood\n• Strengthen the immune system\n• Increase resilience\n• Create new neural connections\n• Help us see life with more clarity and hope\n\nGratitude doesn't change what happened to us, but it can change the way we live it."
+          }
+        },
+        {
+          "heading": { "es": "Una práctica transformadora", "en": "A transforming practice" },
+          "body": {
+            "es": "La gratitud es una práctica. Mientras más la ejercitamos, más natural se vuelve.\n\nNo necesitamos sentir gratitud todo el tiempo, ni forzarnos a ser “positivos”.\n\nPodemos empezar simplemente por mirar nuestro día y reconocer una o dos cosas por las que agradecemos. Con el tiempo, esta práctica nos ayuda a recordar que, aun en circunstancias difíciles, siempre hay algo bueno por lo que dar gracias.",
+            "en": "Gratitude is a practice. The more we exercise it, the more natural it becomes.\n\nWe don't need to feel grateful all the time, or force ourselves to be “positive.”\n\nWe can simply start by looking at our day and recognizing one or two things we're grateful for. Over time, this practice helps us remember that, even in difficult circumstances, there is always something good to give thanks for."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "La gratitud es una elección.", "en": "Gratitude is a choice." }, "text": { "es": "Puedo elegir enfocarme en lo que sí tengo.", "en": "I can choose to focus on what I do have." } },
+        { "title": { "es": "No necesito esperar a que todo sea perfecto.", "en": "I don't need to wait for everything to be perfect." }, "text": { "es": "Puedo agradecer incluso en medio de los retos.", "en": "I can be grateful even in the middle of challenges." } },
+        { "title": { "es": "La gratitud me conecta con el presente.", "en": "Gratitude connects me with the present." }, "text": { "es": "Me ayuda a valorar lo que vivo hoy.", "en": "It helps me value what I'm living today." } },
+        { "title": { "es": "Agradecer fortalece mi recuperación.", "en": "Giving thanks strengthens my recovery." }, "text": { "es": "Cambia mi manera de pensar, sentir y responder.", "en": "It changes the way I think, feel, and respond." } },
+        { "title": { "es": "Puedo agradecer lo pequeño.", "en": "I can be grateful for small things." }, "text": { "es": "Las cosas simples también son bendiciones.", "en": "Simple things are blessings too." } },
+        { "title": { "es": "La gratitud me acerca a Dios.", "en": "Gratitude brings me closer to God." }, "text": { "es": "Reconozco Su presencia en mi vida.", "en": "I recognize His presence in my life." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y escribe o piensa:", "en": "Take a few minutes to write or think:" },
+      "questions": [
+        { "es": "¿Qué tres cosas agradezco hoy?", "en": "What three things am I grateful for today?" },
+        { "es": "¿Qué cosa difícil me ha enseñado algo valioso?", "en": "What difficult thing has taught me something valuable?" },
+        { "es": "¿Qué personas han sido una bendición en mi vida?", "en": "Which people have been a blessing in my life?" },
+        { "es": "¿Qué cosas simples hago que hacen mi vida mejor?", "en": "What simple things do I do that make my life better?" },
+        { "es": "¿Cómo puedo practicar la gratitud de manera más constante?", "en": "How can I practice gratitude more consistently?" }
+      ],
+      "quote": { "es": "Cuando cambiamos nuestro enfoque de lo que nos falta a lo que ya tenemos, nuestra visión de la vida comienza a transformarse.", "en": "When we shift our focus from what we lack to what we already have, our view of life begins to transform." },
+      "quote_author": { "es": "Inspirado en Rhonda Byrne", "en": "Inspired by Rhonda Byrne" },
+      "prayer": {
+        "es": "Dios, gracias por todas las bendiciones que me acompañan, incluso cuando no las veo. Ayúdame a entrenar mi mente y mi corazón para reconocer lo bueno en mi vida, a valorar lo que tengo, a aprender de lo que he vivido y a confiar en que siempre hay algo por lo que dar gracias. Que la gratitud me ayude a vivir con mayor paz, esperanza y serenidad. Amén.",
+        "en": "God, thank You for all the blessings that accompany me, even when I don't see them. Help me train my mind and my heart to recognize the good in my life, to value what I have, to learn from what I've lived, and to trust that there is always something to give thanks for. May gratitude help me live with greater peace, hope, and serenity. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-11",
-      "subject_es": "El duelo tiene su tiempo",
-      "subject_en": "Grief keeps its own time",
-      "text_es": "No hay un calendario para el duelo. Algunos días parece que avanzamos y otros sentimos que volvemos al principio. Las dos cosas son parte del camino. Llorar lo que perdimos es una forma de honrar cuánto lo amamos.\n\nHoy me doy permiso de sentir sin apurarme a estar bien.",
-      "text_en": "Grief has no calendar. Some days we seem to move forward, and others we feel back at the beginning. Both are part of the path. Mourning what we lost is a way of honoring how much we loved it.\n\nToday I give myself permission to feel without rushing to be okay.",
-      "topic_tag": "grief"
+      "subject_es": "El perdón me libera",
+      "subject_en": "Forgiveness sets me free",
+      "text_es": "Cuando el resentimiento se queda con nosotros por mucho tiempo, nos mantiene atrapados en el pasado. Perdonar es una decisión de soltar ese peso para recuperar nuestra paz.",
+      "text_en": "When resentment stays with us for a long time, it keeps us trapped in the past. Forgiving is a decision to let go of that weight to recover our peace.",
+      "topic_tag": "forgiveness",
+      "subtitle": { "es": "Soltar el pasado me abre un nuevo camino", "en": "Letting go of the past opens a new path" },
+      "tagline": { "es": "Perdonar no cambia el pasado, pero transforma mi presente", "en": "Forgiving doesn't change the past, but it transforms my present" },
+      "sections": [
+        {
+          "heading": { "es": "El peso del resentimiento", "en": "The weight of resentment" },
+          "body": {
+            "es": "Cuando alguien nos hace daño, es natural sentir enojo, tristeza o injusticia. Estas emociones nos hablan de que fuimos heridos y que algo importante para nosotros fue afectado.\n\nEl problema comienza cuando el resentimiento se queda con nosotros por mucho tiempo. Revivir una y otra vez lo que pasó puede mantenernos atrapados en el pasado y agotarnos emocional, mental y espiritualmente.",
+            "en": "When someone hurts us, it's natural to feel anger, sadness, or a sense of injustice. These emotions tell us that we were wounded and that something important to us was affected.\n\nThe problem begins when resentment stays with us for a long time. Reliving what happened again and again can keep us trapped in the past and drain us emotionally, mentally, and spiritually."
+          }
+        },
+        {
+          "heading": { "es": "El perdón no es lo mismo que…", "en": "Forgiveness is not the same as…" },
+          "body": {
+            "es": "• No es olvidar lo que pasó.\n• No es justificar el daño que nos hicieron.\n• No es permitir que vuelva a ocurrir.\n• No es reconciliarse necesariamente.\n• No es minimizar lo que sentimos.\n\nPerdonar es una decisión de soltar el peso del resentimiento para recuperar nuestra paz.",
+            "en": "• It isn't forgetting what happened.\n• It isn't justifying the harm done to us.\n• It isn't allowing it to happen again.\n• It isn't necessarily reconciling.\n• It isn't minimizing what we feel.\n\nForgiving is a decision to let go of the weight of resentment in order to recover our peace."
+          }
+        },
+        {
+          "heading": { "es": "El perdón sí es…", "en": "Forgiveness is…" },
+          "body": {
+            "es": "• Liberarme del dolor que me ata al pasado.\n• Dejar de alimentar el enojo y el deseo de venganza.\n• Reconocer mi humanidad y la de la otra persona.\n• Aceptar que, aunque no haya justicia en esta vida, yo puedo elegir la paz.\n• Confiar en que Dios ve lo que yo no puedo ver y que también se encarga de lo que yo no puedo resolver.\n• Dar un paso hacia una vida más ligera y en libertad.",
+            "en": "• Freeing myself from the pain that ties me to the past.\n• No longer feeding anger and the desire for revenge.\n• Recognizing my humanity and the other person's.\n• Accepting that, even if there's no justice in this life, I can choose peace.\n• Trusting that God sees what I can't see and also takes care of what I can't resolve.\n• Taking a step toward a lighter, freer life."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "El resentimiento me hace prisionero del pasado.", "en": "Resentment makes me a prisoner of the past." }, "text": { "es": "Puedo soltarlo para recuperar mi paz.", "en": "I can let it go to recover my peace." } },
+        { "title": { "es": "Perdonar es un proceso.", "en": "Forgiving is a process." }, "text": { "es": "A veces requiere tiempo, paciencia y apoyo.", "en": "Sometimes it takes time, patience, and support." } },
+        { "title": { "es": "Puedo perdonar sin olvidar.", "en": "I can forgive without forgetting." }, "text": { "es": "Mi memoria sigue, pero ya no me controla.", "en": "My memory remains, but it no longer controls me." } },
+        { "title": { "es": "El perdón me libera.", "en": "Forgiveness sets me free." }, "text": { "es": "No cambia a la otra persona, pero transforma mi manera de vivir.", "en": "It doesn't change the other person, but it transforms the way I live." } },
+        { "title": { "es": "Puedo poner límites.", "en": "I can set boundaries." }, "text": { "es": "Perdonar no significa permitir nuevos daños.", "en": "Forgiving doesn't mean allowing new harm." } },
+        { "title": { "es": "Confío en Dios.", "en": "I trust in God." }, "text": { "es": "Puedo entregarle lo que no puedo resolver y dejar en Sus manos la justicia.", "en": "I can hand Him what I can't resolve and leave justice in His hands." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿A quién necesito perdonar?", "en": "Whom do I need to forgive?" },
+        { "es": "¿Qué me impide soltar el resentimiento?", "en": "What keeps me from letting go of resentment?" },
+        { "es": "¿Estoy dispuesto a dar un primer paso, aunque sea pequeño?", "en": "Am I willing to take a first step, even a small one?" },
+        { "es": "¿Qué necesito para mantener mi paz en este proceso?", "en": "What do I need to keep my peace in this process?" },
+        { "es": "¿Cómo puedo confiarle a Dios aquello que no puedo resolver?", "en": "How can I entrust to God what I can't resolve?" }
+      ],
+      "quote": { "es": "El perdón no cambia el pasado, pero sí amplía el futuro.", "en": "Forgiveness doesn't change the past, but it does enlarge the future." },
+      "quote_author": { "es": "Inspirado en Desmond Tutu", "en": "Inspired by Desmond Tutu" },
+      "prayer": {
+        "es": "Dios, ayúdame a soltar el resentimiento y a perdonar, aun cuando sea difícil. Dame la fortaleza para liberar el pasado, la sabiduría para poner límites y la serenidad para confiar en que Tú también ves lo que yo no puedo ver. Ayúdame a vivir con un corazón más ligero, en paz y en libertad. Amén.",
+        "en": "God, help me let go of resentment and forgive, even when it's difficult. Give me the strength to release the past, the wisdom to set boundaries, and the serenity to trust that You also see what I cannot see. Help me live with a lighter heart, in peace and in freedom. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-12",
-      "subject_es": "No estoy solo",
-      "subject_en": "I am not alone",
-      "text_es": "El aislamiento nos dice que nadie entendería lo que vivimos. Pero cuando alguien en el grupo comparte su historia, descubrimos que hablaba de la nuestra. Sanamos en compañía. Una llamada, un mensaje o una reunión pueden ser el puente de regreso.\n\nHoy me comunico con una persona de mi grupo.",
-      "text_en": "Isolation tells us no one could understand what we're living through. But when someone in the group shares their story, we discover they were telling ours. We heal in company. A call, a message, or a meeting can be the bridge back.\n\nToday I reach out to one person from my group.",
-      "topic_tag": "community"
+      "subject_es": "Vivir el presente, un día a la vez",
+      "subject_en": "Living in the present, one day at a time",
+      "text_es": "El único momento que realmente tengo es hoy. En el presente puedo hacer mi parte, elegir cómo respondo y entregar lo que no puedo resolver.",
+      "text_en": "The only moment I really have is today. In the present I can do my part, choose how I respond, and hand over what I can't resolve.",
+      "topic_tag": "acceptance",
+      "subtitle": { "es": "Soltar el pasado, confiar el futuro y enfocarme en hoy", "en": "Letting go of the past, entrusting the future, and focusing on today" },
+      "tagline": { "es": "El presente es el único momento que realmente tengo", "en": "The present is the only moment I really have" },
+      "sections": [
+        {
+          "heading": { "es": "El pasado ya pasó", "en": "The past is past" },
+          "body": {
+            "es": "El pasado ya no lo puedo cambiar, por más que lo analice, lo lleve en mi mente o desee que las cosas hubieran sido diferentes. Puedo aprender de él, pedir perdón cuando sea necesario, hacer reparaciones y soltar lo que ya cumplió su función.",
+            "en": "I can no longer change the past, no matter how much I analyze it, carry it in my mind, or wish things had been different. I can learn from it, ask for forgiveness when needed, make amends, and let go of what has already served its purpose."
+          }
+        },
+        {
+          "heading": { "es": "El futuro aún no llega", "en": "The future hasn't arrived yet" },
+          "body": {
+            "es": "El futuro puede generar ansiedad. Nuestra mente puede imaginar muchos escenarios, algunos útiles y otros que solo nos preocupan. Hacer planes y prepararnos es parte de la vida, pero no puedo controlar todo lo que va a ocurrir. Puedo confiar en Dios y en el proceso.",
+            "en": "The future can create anxiety. Our mind can imagine many scenarios, some useful and others that only worry us. Making plans and preparing is part of life, but I can't control everything that will happen. I can trust God and the process."
+          }
+        },
+        {
+          "heading": { "es": "El presente es mi punto de poder", "en": "The present is where my power is" },
+          "body": {
+            "es": "El único momento que realmente tengo es hoy. En el presente puedo:\n• Hacer mi parte.\n• Elegir cómo respondo.\n• Practicar los 12 Pasos.\n• Cuidar de mí.\n• Tratar a los demás con respeto.\n• Agradecer lo que tengo.\n• Entregar lo que no puedo resolver.",
+            "en": "The only moment I really have is today. In the present I can:\n• Do my part.\n• Choose how I respond.\n• Practice the 12 Steps.\n• Take care of myself.\n• Treat others with respect.\n• Be grateful for what I have.\n• Hand over what I can't resolve."
+          }
+        },
+        {
+          "heading": { "es": "La neurociencia lo confirma", "en": "Neuroscience confirms it" },
+          "body": {
+            "es": "Cuando enfocamos nuestra atención en el presente, activamos áreas del cerebro que nos ayudan a regular nuestras emociones, reducir el estrés y tomar decisiones más claras. La práctica de estar presentes a través de la respiración, la oración o la meditación fortalece nuevas conexiones neuronales y nos ayuda a responder de una manera más serena y consciente.",
+            "en": "When we focus our attention on the present, we activate areas of the brain that help us regulate our emotions, reduce stress, and make clearer decisions. Practicing presence through breathing, prayer, or meditation strengthens new neural connections and helps us respond in a calmer, more conscious way."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Solo tengo hoy.", "en": "I only have today." }, "text": { "es": "El presente es el único momento que puedo vivir.", "en": "The present is the only moment I can live." } },
+        { "title": { "es": "Hago lo que está en mis manos.", "en": "I do what is in my hands." }, "text": { "es": "Actúo con responsabilidad y amor.", "en": "I act with responsibility and love." } },
+        { "title": { "es": "Confío en Dios.", "en": "I trust in God." }, "text": { "es": "Entrego el pasado y el futuro.", "en": "I hand over the past and the future." } },
+        { "title": { "es": "Me enfoco en lo esencial.", "en": "I focus on what's essential." }, "text": { "es": "Prioridades simples y reales.", "en": "Simple, real priorities." } },
+        { "title": { "es": "Practico la serenidad.", "en": "I practice serenity." }, "text": { "es": "Respiro, me detengo y elijo mi respuesta.", "en": "I breathe, pause, and choose my response." } },
+        { "title": { "es": "Agradezco este día.", "en": "I'm grateful for this day." }, "text": { "es": "Hoy también hay razones para dar gracias.", "en": "Today there are also reasons to give thanks." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿En qué parte de mi pasado aún me cuesta soltar?", "en": "What part of my past is still hard for me to let go of?" },
+        { "es": "¿Qué preocupaciones sobre el futuro están ocupando demasiado espacio en mi mente?", "en": "What worries about the future are taking up too much space in my mind?" },
+        { "es": "¿Qué puedo hacer hoy que me acerque a la persona que quiero ser?", "en": "What can I do today that brings me closer to the person I want to be?" },
+        { "es": "¿Cuáles son mis tres prioridades para este día?", "en": "What are my three priorities for this day?" },
+        { "es": "¿Qué puedo agradecer hoy, por pequeño que sea?", "en": "What can I be grateful for today, however small?" }
+      ],
+      "quote": { "es": "La vida no se vive en el ayer ni en el mañana, sino en el hoy. Y en el hoy siempre hay una oportunidad para elegir una mejor manera de vivir.", "en": "Life isn't lived in yesterday or tomorrow, but in today. And today there is always an opportunity to choose a better way to live." },
+      "quote_author": { "es": "Inspirado en Eckhart Tolle", "en": "Inspired by Eckhart Tolle" },
+      "prayer": {
+        "es": "Dios, ayúdame a dejar el pasado en Tus manos y a confiar en el futuro, aun cuando no lo vea con claridad. Dame la sabiduría para enfocarme en el presente, para hacer mi parte con honestidad y amor, y para aceptar con serenidad lo que hoy no puedo cambiar. Que pueda vivir este día consciente de Tu presencia, agradeciendo las bendiciones que ya están aquí y eligiendo siempre aquello que me acerque a la paz. Amén.",
+        "en": "God, help me leave the past in Your hands and trust the future, even when I can't see it clearly. Give me the wisdom to focus on the present, to do my part with honesty and love, and to accept with serenity what I can't change today. May I live this day aware of Your presence, grateful for the blessings that are already here, and always choosing what brings me closer to peace. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-13",
-      "subject_es": "Honestidad conmigo",
-      "subject_en": "Honest with myself",
-      "text_es": "Es más fácil ver los defectos de otros que los propios. Pero la libertad empieza cuando dejamos de escondernos de nosotros mismos. Mirar con honestidad no es para condenarnos, sino para conocernos y elegir de nuevo.\n\nHoy reconozco, sin juzgarme, una verdad que he evitado.",
-      "text_en": "It's easier to see the faults of others than our own. But freedom begins when we stop hiding from ourselves. Looking honestly isn't about condemning ourselves; it's about knowing ourselves and choosing again.\n\nToday I acknowledge, without judgment, a truth I've been avoiding.",
-      "topic_tag": "honesty"
+      "subject_es": "La humildad me abre al crecimiento",
+      "subject_en": "Humility opens me to growth",
+      "text_es": "La humildad no significa pensar menos de nosotros mismos. Significa vernos con mayor claridad, aceptar que necesitamos ayuda y estar dispuestos a aprender.",
+      "text_en": "Humility doesn't mean thinking less of ourselves. It means seeing ourselves more clearly, accepting that we need help, and being willing to learn.",
+      "topic_tag": "humility",
+      "subtitle": { "es": "Puedo aceptar, aprender y seguir adelante", "en": "I can accept, learn, and move forward" },
+      "tagline": { "es": "La humildad me conecta con la verdad, conmigo mismo y con los demás", "en": "Humility connects me with the truth, with myself, and with others" },
+      "sections": [
+        {
+          "heading": { "es": "¿Qué es la humildad?", "en": "What is humility?" },
+          "body": {
+            "es": "La humildad no significa pensar menos de nosotros mismos, ni sentirnos inferiores. Tampoco significa dejarnos hacer daño o no expresar lo que pensamos.\n\nLa humildad significa vernos con mayor claridad. Reconocer nuestras fortalezas y también nuestras limitaciones. Aceptar que necesitamos ayuda. Y estar dispuestos a aprender.",
+            "en": "Humility doesn't mean thinking less of ourselves or feeling inferior. Nor does it mean letting ourselves be hurt or not expressing what we think.\n\nHumility means seeing ourselves more clearly. Recognizing our strengths and also our limitations. Accepting that we need help. And being willing to learn."
+          }
+        },
+        {
+          "heading": { "es": "La humildad en recuperación", "en": "Humility in recovery" },
+          "body": {
+            "es": "Durante mucho tiempo podemos haber creído que:\n• No necesitábamos ayuda.\n• Sabíamos más que otros.\n• Debíamos tener siempre la razón.\n• Mostrar vulnerabilidad era una señal de debilidad.\n• Pedir ayuda era fracasar.\n\nLa recuperación nos invita a soltar estas ideas y a reconocer que nadie sana solo. La humildad nos permite abrirnos a la guía de otros, a compartir nuestra experiencia y a aprender de quienes nos rodean.",
+            "en": "For a long time we may have believed that:\n• We didn't need help.\n• We knew more than others.\n• We always had to be right.\n• Showing vulnerability was a sign of weakness.\n• Asking for help meant failing.\n\nRecovery invites us to let go of these ideas and recognize that no one heals alone. Humility lets us open up to others' guidance, share our experience, and learn from those around us."
+          }
+        },
+        {
+          "heading": { "es": "Los beneficios de la humildad", "en": "The benefits of humility" },
+          "body": {
+            "es": "La humildad no es solo un valor espiritual, también tiene beneficios prácticos:\n• Mejora nuestras relaciones.\n• Nos ayuda a escuchar y aprender.\n• Reduce la defensividad y la necesidad de controlar.\n• Facilita hacer y mantener reparaciones.\n• Nos conecta con Dios y el apoyo de otros.\n• Nos permite cambiar y crecer.\n\nLa humildad crea espacio para nuevas posibilidades en nuestra vida.",
+            "en": "Humility isn't only a spiritual value; it also has practical benefits:\n• It improves our relationships.\n• It helps us listen and learn.\n• It reduces defensiveness and the need to control.\n• It makes it easier to make and keep amends.\n• It connects us with God and the support of others.\n• It allows us to change and grow.\n\nHumility makes room for new possibilities in our lives."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Puedo aceptar que no lo sé todo.", "en": "I can accept that I don't know everything." }, "text": { "es": "Hay muchas cosas que aún puedo aprender.", "en": "There is much I can still learn." } },
+        { "title": { "es": "Puedo escuchar sin sentirme atacado.", "en": "I can listen without feeling attacked." }, "text": { "es": "Otras perspectivas también tienen valor.", "en": "Other perspectives have value too." } },
+        { "title": { "es": "Puedo reconocer mis errores.", "en": "I can admit my mistakes." }, "text": { "es": "Equivocarme no me hace una mala persona.", "en": "Making mistakes doesn't make me a bad person." } },
+        { "title": { "es": "Puedo pedir ayuda.", "en": "I can ask for help." }, "text": { "es": "La vulnerabilidad me acerca a la recuperación.", "en": "Vulnerability brings me closer to recovery." } },
+        { "title": { "es": "Puedo dejar de compararme.", "en": "I can stop comparing myself." }, "text": { "es": "Mi camino es único y suficiente.", "en": "My path is unique and enough." } },
+        { "title": { "es": "Puedo mantener una actitud de aprendizaje.", "en": "I can keep a learning attitude." }, "text": { "es": "Cada experiencia puede enseñarme algo.", "en": "Every experience can teach me something." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿En qué áreas me cuesta ser humilde?", "en": "In which areas is it hard for me to be humble?" },
+        { "es": "¿Estoy dispuesto a escuchar otras opiniones?", "en": "Am I willing to listen to other opinions?" },
+        { "es": "¿Qué puedo aprender de esta situación?", "en": "What can I learn from this situation?" },
+        { "es": "¿Hay algo que necesito admitir o corregir?", "en": "Is there something I need to admit or correct?" },
+        { "es": "¿A quién puedo pedir consejo o apoyo hoy?", "en": "Whom can I ask for advice or support today?" }
+      ],
+      "quote": { "es": "La humildad no es pensar menos de uno mismo, sino pensar menos en uno mismo.", "en": "Humility is not thinking less of yourself, but thinking of yourself less." },
+      "quote_author": { "es": "C.S. Lewis", "en": "C.S. Lewis" },
+      "prayer": {
+        "es": "Dios, ayúdame a ver la verdad sobre mí mismo con humildad y compasión. Dame la disposición para escuchar, aprender y aceptar tus enseñanzas a través de otras personas y de mis experiencias. Quita de mí la necesidad de siempre tener la razón y de controlarlo todo. Que pueda admitir mis errores, pedir ayuda cuando la necesite y mantener un corazón abierto al crecimiento. Que la humildad me acerque cada día más a Ti, a los demás y a una vida más plena. Amén.",
+        "en": "God, help me see the truth about myself with humility and compassion. Give me the willingness to listen, learn, and accept Your teachings through other people and through my experiences. Remove from me the need to always be right and to control everything. May I admit my mistakes, ask for help when I need it, and keep a heart open to growth. May humility bring me closer each day to You, to others, and to a fuller life. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-14",
-      "subject_es": "Pensamientos que dan vueltas",
-      "subject_en": "Thoughts that go in circles",
-      "text_es": "La mente a veces se vuelve un carrusel: la misma conversación, el mismo miedo, la misma escena. No tenemos que bajarnos a la fuerza. Basta con notar: \"Estoy dando vueltas otra vez\", respirar y volver a lo que tenemos delante: los pies en el suelo, el aire que entra, la tarea de este momento.\n\nHoy, cuando note que mi mente da vueltas, vuelvo a mi respiración.",
-      "text_en": "Sometimes the mind becomes a carousel: the same conversation, the same fear, the same scene. We don't have to force our way off. It's enough to notice, \"I'm going in circles again,\" breathe, and return to what's in front of us: feet on the ground, the air coming in, the task of this moment.\n\nToday, when I notice my mind circling, I return to my breath.",
-      "topic_tag": "anxiety"
+      "subject_es": "Los límites también son amor",
+      "subject_en": "Boundaries are love too",
+      "text_es": "Los límites son la forma en que cuido lo que es importante para mí. No son muros para alejarnos de los demás, sino guías para relacionarnos de manera más sana, honesta y respetuosa.",
+      "text_en": "Boundaries are how I take care of what matters to me. They aren't walls to keep others away, but guides for relating in a healthier, more honest, and more respectful way.",
+      "topic_tag": "boundaries",
+      "subtitle": { "es": "Puedo cuidarme, respetarme y relacionarme de manera sana", "en": "I can care for myself, respect myself, and relate in a healthy way" },
+      "tagline": { "es": "Poner límites me permite vivir en paz y construir relaciones más sanas", "en": "Setting boundaries lets me live in peace and build healthier relationships" },
+      "sections": [
+        {
+          "heading": { "es": "¿Qué son los límites?", "en": "What are boundaries?" },
+          "body": {
+            "es": "Los límites son la forma en que cuido lo que es importante para mí: mi tiempo, mi energía, mis emociones, mis valores y mi bienestar.\n\nUn límite me ayuda a decidir qué conductas son aceptables, qué necesidades quiero respetar y cómo quiero ser tratado.\n\nLos límites no son muros para alejarnos de los demás, sino guías que nos permiten relacionarnos de manera más sana, honesta y respetuosa.",
+            "en": "Boundaries are how I take care of what matters to me: my time, my energy, my emotions, my values, and my well-being.\n\nA boundary helps me decide which behaviors are acceptable, which needs I want to respect, and how I want to be treated.\n\nBoundaries aren't walls to keep others away, but guides that let us relate in a healthier, more honest, and more respectful way."
+          }
+        },
+        {
+          "heading": { "es": "Por qué nos cuesta poner límites", "en": "Why setting boundaries is hard" },
+          "body": {
+            "es": "• Miedo a ser rechazados.\n• Necesidad de agradar o complacer.\n• Sentir culpa cuando decimos que no.\n• Creer que los demás se enojarán.\n• Haber aprendido que nuestras necesidades no son importantes.\n• Confundir el amor con sacrificar siempre nuestro bienestar.\n\nSin límites, podemos terminar agotados, resentidos y perdiendo el contacto con nosotros mismos.",
+            "en": "• Fear of being rejected.\n• The need to please.\n• Feeling guilty when we say no.\n• Believing others will get angry.\n• Having learned that our needs aren't important.\n• Confusing love with always sacrificing our well-being.\n\nWithout boundaries, we can end up exhausted, resentful, and out of touch with ourselves."
+          }
+        },
+        {
+          "heading": { "es": "Los límites en recuperación", "en": "Boundaries in recovery" },
+          "body": {
+            "es": "Poner límites es parte de nuestra recuperación. Nos ayuda a tomar responsabilidad por nuestra vida, a dejar de reaccionar impulsivamente y a crear relaciones más equilibradas.\n\nLos límites nos permiten:\n• Cuidar nuestra salud emocional y física.\n• Ser honestos con nosotros y con los demás.\n• Prevenir resentimientos.\n• Practicar el amor propio.\n• Construir relaciones basadas en el respeto.\n• Vivir de acuerdo con nuestros valores.",
+            "en": "Setting boundaries is part of our recovery. It helps us take responsibility for our lives, stop reacting impulsively, and create more balanced relationships.\n\nBoundaries allow us to:\n• Care for our emotional and physical health.\n• Be honest with ourselves and with others.\n• Prevent resentment.\n• Practice self-love.\n• Build relationships based on respect.\n• Live according to our values."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Poner límites también es amor.", "en": "Setting boundaries is love too." }, "text": { "es": "Me cuido y también cuido a los demás.", "en": "I take care of myself and of others too." } },
+        { "title": { "es": "Puedo decir que no sin sentirme culpable.", "en": "I can say no without feeling guilty." }, "text": { "es": "No tengo que complacer a todos.", "en": "I don't have to please everyone." } },
+        { "title": { "es": "Un límite saludable previene resentimientos.", "en": "A healthy boundary prevents resentment." }, "text": { "es": "Me permite ser claro desde el inicio.", "en": "It lets me be clear from the start." } },
+        { "title": { "es": "Es posible poner límites con respeto y compasión.", "en": "It's possible to set boundaries with respect and compassion." }, "text": { "es": "Puedo ser firme y amable al mismo tiempo.", "en": "I can be firm and kind at the same time." } },
+        { "title": { "es": "Mis necesidades también importan.", "en": "My needs matter too." }, "text": { "es": "Tengo derecho a cuidar mi tiempo, mi energía y mi bienestar.", "en": "I have the right to protect my time, my energy, and my well-being." } },
+        { "title": { "es": "Los límites me acercan a relaciones más sanas.", "en": "Boundaries bring me closer to healthier relationships." }, "text": { "es": "Me permiten dar y recibir amor de manera equilibrada.", "en": "They let me give and receive love in a balanced way." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿En qué área de mi vida necesito poner un límite?", "en": "In which area of my life do I need to set a boundary?" },
+        { "es": "¿Qué me impide decir que no?", "en": "What keeps me from saying no?" },
+        { "es": "¿Cómo puedo comunicar mi límite de manera clara y respetuosa?", "en": "How can I communicate my boundary clearly and respectfully?" },
+        { "es": "¿Qué necesito para mantener este límite?", "en": "What do I need to keep this boundary?" },
+        { "es": "¿Cómo me sentiré si protejo lo que es importante para mí?", "en": "How will I feel if I protect what matters to me?" }
+      ],
+      "quote": { "es": "Poner límites no es alejarse de las personas, sino acercarse a una relación más verdadera, más sana y más amorosa.", "en": "Setting boundaries isn't pulling away from people, but moving toward a truer, healthier, and more loving relationship." },
+      "quote_author": { "es": "Inspirado en Melody Beattie", "en": "Inspired by Melody Beattie" },
+      "prayer": {
+        "es": "Dios, ayúdame a reconocer lo que necesito para estar en paz. Dame claridad para poner límites sanos, valentía para decir que no cuando sea necesario y compasión para hacerlo con respeto. Ayúdame a cuidar de mí sin sentirme culpable, y a relacionarme con los demás desde la honestidad, el amor y el equilibrio. Que pueda recordar que poner límites también es una forma de amor. Amén.",
+        "en": "God, help me recognize what I need to be at peace. Give me clarity to set healthy boundaries, courage to say no when necessary, and compassion to do it with respect. Help me care for myself without feeling guilty, and relate to others from honesty, love, and balance. May I remember that setting boundaries is also a form of love. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-    {
+  {
       "date": "2026-10-15",
-      "subject_es": "Perdonar es liberarme",
-      "subject_en": "Forgiving sets me free",
-      "text_es": "Perdonar no significa volver a confiar en quien nos dañó, ni decir que no importó. Significa dejar de esperar que el pasado sea distinto. El perdón es un proceso, no un momento, y muchas veces empieza con el simple deseo de querer perdonar.\n\nHoy le pido a mi Poder Superior la disposición de perdonar.",
-      "text_en": "Forgiving doesn't mean trusting again the person who harmed us, or saying it didn't matter. It means we stop hoping the past will be different. Forgiveness is a process, not a moment, and it often begins with simply wanting to be willing.\n\nToday I ask my Higher Power for the willingness to forgive.",
-      "topic_tag": "resentment"
+      "subject_es": "La compasión empieza por mí mismo",
+      "subject_en": "Compassion begins with myself",
+      "text_es": "La compasión es tratarnos con amabilidad, comprensión y respeto, especialmente cuando estamos sufriendo, nos equivocamos o enfrentamos dificultades.",
+      "text_en": "Compassion is treating ourselves with kindness, understanding, and respect, especially when we're suffering, make mistakes, or face difficulties.",
+      "topic_tag": "self_compassion",
+      "subtitle": { "es": "Puedo ser amable conmigo, aprender de mis errores y tratarme con dignidad", "en": "I can be kind to myself, learn from my mistakes, and treat myself with dignity" },
+      "tagline": { "es": "La compasión me da la fuerza para crecer", "en": "Compassion gives me the strength to grow" },
+      "sections": [
+        {
+          "heading": { "es": "¿Qué es la compasión?", "en": "What is compassion?" },
+          "body": {
+            "es": "La compasión es tratarnos con amabilidad, comprensión y respeto, especialmente cuando estamos sufriendo, nos equivocamos o enfrentamos dificultades.\n\nNo significa justificar lo que hicimos ni evitar la responsabilidad. Significa reconocer que, como seres humanos, todos tenemos límites, cometemos errores y estamos en un proceso de aprendizaje.",
+            "en": "Compassion is treating ourselves with kindness, understanding, and respect, especially when we're suffering, make mistakes, or face difficulties.\n\nIt doesn't mean justifying what we did or avoiding responsibility. It means recognizing that, as human beings, we all have limits, make mistakes, and are in a process of learning."
+          }
+        },
+        {
+          "heading": { "es": "Por qué nos cuesta ser compasivos con nosotros mismos", "en": "Why it's hard to be compassionate with ourselves" },
+          "body": {
+            "es": "Muchas veces somos mucho más comprensivos y amables con los demás que con nosotros mismos. Podemos ser muy duros, exigentes y críticos con nuestras propias fallas. Esto puede estar relacionado con experiencias pasadas, mensajes que recibimos o una creencia de que debemos ser perfectos para ser aceptados o valiosos.",
+            "en": "We are often much more understanding and kind to others than to ourselves. We can be very harsh, demanding, and critical of our own failings. This may be connected to past experiences, messages we received, or a belief that we must be perfect to be accepted or worthy."
+          }
+        },
+        {
+          "heading": { "es": "Los beneficios de la autocompasión", "en": "The benefits of self-compassion" },
+          "body": {
+            "es": "• Reduce la autocrítica y la vergüenza\n• Disminuye la ansiedad y el estrés\n• Aumenta la motivación para cambiar\n• Nos ayuda a ser más pacientes en nuestro proceso\n• Fortalece la resiliencia\n• Nos permite aprender de los errores\n• Mejora nuestras relaciones\n• Nos conecta con una actitud más amorosa hacia los demás\n\nSer compasivo conmigo mismo no solo me hace sentir mejor, también me da la fuerza para seguir creciendo y vivir una vida más sana y equilibrada.",
+            "en": "• It reduces self-criticism and shame\n• It lowers anxiety and stress\n• It increases motivation to change\n• It helps us be more patient with our process\n• It strengthens resilience\n• It lets us learn from mistakes\n• It improves our relationships\n• It connects us with a more loving attitude toward others\n\nBeing compassionate with myself doesn't just make me feel better; it also gives me the strength to keep growing and live a healthier, more balanced life."
+          }
+        }
+      ],
+      "key_ideas": [
+        { "title": { "es": "Puedo reconocer mi dolor.", "en": "I can acknowledge my pain." }, "text": { "es": "Mis emociones son válidas, aunque sean difíciles.", "en": "My emotions are valid, even when they're difficult." } },
+        { "title": { "es": "Puedo hablarme con amabilidad.", "en": "I can speak to myself kindly." }, "text": { "es": "No me digo lo que nunca le diría a un buen amigo.", "en": "I don't tell myself what I would never tell a good friend." } },
+        { "title": { "es": "Puedo aprender de mis errores.", "en": "I can learn from my mistakes." }, "text": { "es": "Cada error es una oportunidad para crecer.", "en": "Every mistake is an opportunity to grow." } },
+        { "title": { "es": "Puedo ser paciente conmigo.", "en": "I can be patient with myself." }, "text": { "es": "El cambio lleva tiempo y es un proceso.", "en": "Change takes time and is a process." } },
+        { "title": { "es": "Puedo cuidar mis necesidades.", "en": "I can take care of my needs." }, "text": { "es": "Tengo derecho a descanso, apoyo y comprensión.", "en": "I have a right to rest, support, and understanding." } },
+        { "title": { "es": "La autocompasión me ayuda a ser más compasivo con los demás.", "en": "Self-compassion helps me be more compassionate with others." }, "text": { "es": "Cuando me trato con amabilidad, es más fácil tratar a otros con respeto y empatía.", "en": "When I treat myself kindly, it's easier to treat others with respect and empathy." } }
+      ],
+      "practice_intro": { "es": "Tómate unos minutos y reflexiona:", "en": "Take a few minutes and reflect:" },
+      "questions": [
+        { "es": "¿Cómo me hablo cuando cometo un error?", "en": "How do I talk to myself when I make a mistake?" },
+        { "es": "¿Estoy siendo tan amable conmigo como lo sería con un buen amigo?", "en": "Am I being as kind to myself as I would be with a good friend?" },
+        { "es": "¿Qué necesito hoy para cuidarme mejor?", "en": "What do I need today to take better care of myself?" },
+        { "es": "¿Qué puedo aprender de una dificultad reciente?", "en": "What can I learn from a recent difficulty?" },
+        { "es": "¿Cómo puedo practicar la autocompasión en una situación que me cuesta?", "en": "How can I practice self-compassion in a situation that's hard for me?" }
+      ],
+      "quote": { "es": "Sé tan amable contigo mismo como lo serías con alguien a quien quieres.", "en": "Be as kind to yourself as you would be to someone you love." },
+      "quote_author": { "es": "Inspirado en Kristin Neff", "en": "Inspired by Kristin Neff" },
+      "prayer": {
+        "es": "Dios, ayúdame a tratarme con la misma compasión y amor con la que quiero tratar a los demás. Dame la claridad para reconocer mis errores, la humildad para aprender de ellos y la paciencia para seguir creciendo. Ayúdame a cuidar de mí con respeto, a aceptar que soy un ser humano en proceso y a recordar que también merezco tu amor, tu gracia y tu comprensión. Que pueda ser más compasivo conmigo mismo y, desde ahí, ser un instrumento de compasión para los demás. Amén.",
+        "en": "God, help me treat myself with the same compassion and love with which I want to treat others. Give me the clarity to recognize my mistakes, the humility to learn from them, and the patience to keep growing. Help me care for myself with respect, accept that I am a human being in process, and remember that I too deserve Your love, Your grace, and Your understanding. May I be more compassionate with myself and, from there, be an instrument of compassion for others. Amen."
+      },
+      "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
     {
       "date": "2026-10-16",
