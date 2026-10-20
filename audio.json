@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-29",
+      "category": "reflections",
+      "title": { "es": "La Paciencia Me Da Fortaleza", "en": "La Paciencia Me Da Fortaleza" },
+      "description": { "es": "Reflexión del 29 de octubre · en español", "en": "Reflection for October 29 · in Spanish" },
+      "duration": "5:40",
+      "url_es": "audio/reflection-2026-10-29-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-29"
+    },
+    {
       "id": "reflection-2026-10-28",
       "category": "reflections",
       "title": { "es": "Pequeños Pasos Tambien Cuentan", "en": "Pequeños Pasos Tambien Cuentan" },
