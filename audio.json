@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-28",
+      "category": "reflections",
+      "title": { "es": "Pequeños Pasos Tambien Cuentan", "en": "Pequeños Pasos Tambien Cuentan" },
+      "description": { "es": "Reflexión del 28 de octubre · en español", "en": "Reflection for October 28 · in Spanish" },
+      "duration": "5:09",
+      "url_es": "audio/reflection-2026-10-28-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-28"
+    },
+    {
       "id": "reflection-2026-10-27",
       "category": "reflections",
       "title": { "es": "La Gratitud Transforma Mi Vida", "en": "La Gratitud Transforma Mi Vida" },
