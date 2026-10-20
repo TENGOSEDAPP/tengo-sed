@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-30",
+      "category": "reflections",
+      "title": { "es": "La Confianza Me Abre Caminos", "en": "La Confianza Me Abre Caminos" },
+      "description": { "es": "Reflexión del 30 de octubre · en español", "en": "Reflection for October 30 · in Spanish" },
+      "duration": "6:22",
+      "url_es": "audio/reflection-2026-10-30-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-30"
+    },
+    {
       "id": "reflection-2026-10-29",
       "category": "reflections",
       "title": { "es": "La Paciencia Me Da Fortaleza", "en": "La Paciencia Me Da Fortaleza" },
