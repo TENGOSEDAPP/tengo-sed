@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-20",
+      "category": "reflections",
+      "title": { "es": "Vivir En El Presente", "en": "Vivir En El Presente" },
+      "description": { "es": "Reflexión del 20 de octubre · en español", "en": "Reflection for October 20 · in Spanish" },
+      "duration": "4:07",
+      "url_es": "audio/reflection-2026-10-20-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-20"
+    },
+    {
       "id": "reflection-2026-10-15",
       "category": "reflections",
       "title": { "es": "La compasión empieza por mí mismo", "en": "Compassion begins with myself" },
