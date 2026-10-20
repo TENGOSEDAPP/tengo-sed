@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-23",
+      "category": "reflections",
+      "title": { "es": "Soltar El Control Me Da Paz", "en": "Soltar El Control Me Da Paz" },
+      "description": { "es": "Reflexión del 23 de octubre · en español", "en": "Reflection for October 23 · in Spanish" },
+      "duration": "4:50",
+      "url_es": "audio/reflection-2026-10-23-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-23"
+    },
+    {
       "id": "reflection-2026-10-22",
       "category": "reflections",
       "title": { "es": "La Autocompasion Me Fortalece", "en": "La Autocompasion Me Fortalece" },
