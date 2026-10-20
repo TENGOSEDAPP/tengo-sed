@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-31",
+      "category": "reflections",
+      "title": { "es": "Vivir El Presente Me Trae Paz", "en": "Vivir El Presente Me Trae Paz" },
+      "description": { "es": "Reflexión del 31 de octubre · en español", "en": "Reflection for October 31 · in Spanish" },
+      "duration": "5:53",
+      "url_es": "audio/reflection-2026-10-31-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-31"
+    },
+    {
       "id": "reflection-2026-10-30",
       "category": "reflections",
       "title": { "es": "La Confianza Me Abre Caminos", "en": "La Confianza Me Abre Caminos" },
