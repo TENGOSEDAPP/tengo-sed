@@ -56,7 +56,7 @@
       "text_en": "Acceptance is not giving up or approving of what hurt us. It's to stop fighting reality so we can begin working with it. While we argue with what already happened, our energy stays trapped in the past. When we accept, that energy comes back to us for today.\n\nToday I practice accepting one thing I cannot change.",
       "topic_tag": "acceptance"
     },
-  {
+    {
       "date": "2026-10-06",
       "subject_es": "Cuidemos de nosotros mismos",
       "subject_en": "Let's take care of ourselves",
@@ -112,7 +112,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-07",
       "subject_es": "Una pausa puede cambiarlo todo",
       "subject_en": "A pause can change everything",
@@ -166,7 +166,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-08",
       "subject_es": "Lo que no puedo controlar",
       "subject_en": "What I can't control",
@@ -222,7 +222,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-09",
       "subject_es": "Mi historia también importa",
       "subject_en": "My story matters too",
@@ -278,7 +278,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-10",
       "subject_es": "La gratitud cambia mi perspectiva",
       "subject_en": "Gratitude changes my perspective",
@@ -334,7 +334,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-11",
       "subject_es": "El perdón me libera",
       "subject_en": "Forgiveness sets me free",
@@ -390,7 +390,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-12",
       "subject_es": "Vivir el presente, un día a la vez",
       "subject_en": "Living in the present, one day at a time",
@@ -453,7 +453,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-13",
       "subject_es": "La humildad me abre al crecimiento",
       "subject_en": "Humility opens me to growth",
@@ -509,7 +509,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-14",
       "subject_es": "Los límites también son amor",
       "subject_en": "Boundaries are love too",
@@ -565,7 +565,7 @@
       },
       "credit": { "es": "Inspirado por la Guía de Recuperación de Tengo Sed · @pilarcosta", "en": "Inspired by the Tengo Sed Recovery Guide · @pilarcosta" }
     },
-  {
+    {
       "date": "2026-10-15",
       "subject_es": "La compasión empieza por mí mismo",
       "subject_en": "Compassion begins with myself",
@@ -644,6 +644,15 @@
       "text_es": "La serenidad no es la ausencia de problemas, sino la paz en medio de ellos. Llega cuando distinguimos lo que podemos cambiar de lo que no, y ponemos nuestra energía en el lugar correcto. Es un regalo que se practica, día tras día.\n\nHoy, ante cada preocupación, me pregunto: ¿esto está en mis manos?",
       "text_en": "Serenity isn't the absence of problems, but peace in the middle of them. It comes when we tell apart what we can change from what we can't, and put our energy in the right place. It's a gift we practice, day after day.\n\nToday, with each worry, I ask: is this in my hands?",
       "topic_tag": "acceptance"
+    },
+    {
+      "date": "2026-10-20",
+      "subject_es": "Vivir En el presente",
+      "subject_en": "Vivir En el presente",
+      "text_es": "",
+      "text_en": "",
+      "topic_tag": "",
+      "image": "images/reflection-2026-10-20.jpg"
     }
   ]
 }
