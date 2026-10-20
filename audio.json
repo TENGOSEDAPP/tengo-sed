@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-25",
+      "category": "reflections",
+      "title": { "es": "Reparar Rapido Protege Mi Paz", "en": "Reparar Rapido Protege Mi Paz" },
+      "description": { "es": "Reflexión del 25 de octubre · en español", "en": "Reflection for October 25 · in Spanish" },
+      "duration": "7:09",
+      "url_es": "audio/reflection-2026-10-25-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-25"
+    },
+    {
       "id": "reflection-2026-10-24",
       "category": "reflections",
       "title": { "es": "La Honestidad Me Da Libertad", "en": "La Honestidad Me Da Libertad" },
