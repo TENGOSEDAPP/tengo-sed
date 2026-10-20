@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-22",
+      "category": "reflections",
+      "title": { "es": "La Autocompasion Me Fortalece", "en": "La Autocompasion Me Fortalece" },
+      "description": { "es": "Reflexión del 22 de octubre · en español", "en": "Reflection for October 22 · in Spanish" },
+      "duration": "4:22",
+      "url_es": "audio/reflection-2026-10-22-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-22"
+    },
+    {
       "id": "reflection-2026-10-21",
       "category": "reflections",
       "title": { "es": "Mis Emociones Son Mensajes", "en": "Mis Emociones Son Mensajes" },
