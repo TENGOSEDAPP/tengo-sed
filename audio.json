@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-21",
+      "category": "reflections",
+      "title": { "es": "Mis Emociones Son Mensajes", "en": "Mis Emociones Son Mensajes" },
+      "description": { "es": "Reflexión del 21 de octubre · en español", "en": "Reflection for October 21 · in Spanish" },
+      "duration": "4:29",
+      "url_es": "audio/reflection-2026-10-21-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-21"
+    },
+    {
       "id": "reflection-2026-10-20",
       "category": "reflections",
       "title": { "es": "Vivir En El Presente", "en": "Vivir En El Presente" },
