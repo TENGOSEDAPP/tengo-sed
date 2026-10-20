@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-26",
+      "category": "reflections",
+      "title": { "es": "El Servicio Me Da Proposito", "en": "El Servicio Me Da Proposito" },
+      "description": { "es": "Reflexión del 26 de octubre · en español", "en": "Reflection for October 26 · in Spanish" },
+      "duration": "5:15",
+      "url_es": "audio/reflection-2026-10-26-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-26"
+    },
+    {
       "id": "reflection-2026-10-25",
       "category": "reflections",
       "title": { "es": "Reparar Rapido Protege Mi Paz", "en": "Reparar Rapido Protege Mi Paz" },
