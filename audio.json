@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-10-24",
+      "category": "reflections",
+      "title": { "es": "La Honestidad Me Da Libertad", "en": "La Honestidad Me Da Libertad" },
+      "description": { "es": "Reflexión del 24 de octubre · en español", "en": "Reflection for October 24 · in Spanish" },
+      "duration": "4:54",
+      "url_es": "audio/reflection-2026-10-24-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-24"
+    },
+    {
       "id": "reflection-2026-10-23",
       "category": "reflections",
       "title": { "es": "Soltar El Control Me Da Paz", "en": "Soltar El Control Me Da Paz" },
