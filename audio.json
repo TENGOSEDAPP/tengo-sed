@@ -128,6 +128,16 @@
       "reflection_date": "2026-10-20"
     },
     {
+      "id": "reflection-2026-10-19",
+      "category": "reflections",
+      "title": { "es": "Poner Limites Tambien Es Amor", "en": "Poner Limites Tambien Es Amor" },
+      "description": { "es": "Reflexión del 19 de octubre · en español", "en": "Reflection for October 19 · in Spanish" },
+      "duration": "3:49",
+      "url_es": "audio/reflection-2026-10-19-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-10-19"
+    },
+    {
       "id": "reflection-2026-10-15",
       "category": "reflections",
       "title": { "es": "La compasión empieza por mí mismo", "en": "Compassion begins with myself" },
