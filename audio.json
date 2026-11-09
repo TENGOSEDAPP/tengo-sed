@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-11-09",
+      "category": "reflections",
+      "title": { "es": "La Oracion es mucho mas que rezar", "en": "La Oracion es mucho mas que rezar" },
+      "description": { "es": "Reflexión del 9 de noviembre · en español", "en": "Reflection for November 9 · in Spanish" },
+      "duration": "2:50",
+      "url_es": "audio/reflection-2026-11-09-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-11-09"
+    },
+    {
       "id": "reflection-2026-10-31",
       "category": "reflections",
       "title": { "es": "Vivir El Presente Me Trae Paz", "en": "Vivir El Presente Me Trae Paz" },
