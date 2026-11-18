@@ -8,6 +8,16 @@
   ],
   "tracks": [
     {
+      "id": "reflection-2026-11-30",
+      "category": "reflections",
+      "title": { "es": "Aprender a soltar", "en": "Aprender a soltar" },
+      "description": { "es": "Reflexión del 30 de noviembre · en español", "en": "Reflection for November 30 · in Spanish" },
+      "duration": "2:38",
+      "url_es": "audio/reflection-2026-11-30-es.m4a",
+      "topic_tag": "",
+      "reflection_date": "2026-11-30"
+    },
+    {
       "id": "reflection-2026-11-29",
       "category": "reflections",
       "title": { "es": "Aprender a responder en lugar de reaccinar", "en": "Aprender a responder en lugar de reaccinar" },
